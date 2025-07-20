@@ -1,0 +1,18 @@
+
+    If you're reading this, it likely means your
+    operating system has unpacked the ZIP file
+    and is showing you its contents.  While it
+    is possible to extract recordings and text
+    this way, it is better to send the whole ZIP
+    to a DAISY reader so that its recordings and
+    text can be connected with each other.  If
+    you are using EasyReader on a mobile device,
+    close this file and navigate up a level to
+    find the original ZIP file so it can be sent
+    to EasyReader as a whole.  Some other DAISY
+    readers need to be pointed at the OPF file
+    instead, or at the whole directory/folder.
+
+    - This message was added by the DAISY tool
+    Anemone 1.81 (http://ssb22.user.srcf.net/anemone)
+    not by the producers of the DAISY publication.

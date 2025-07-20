@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE package
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Package//EN" "http://openebook.org/dtds/oeb-1.2/oebpkg12.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="">
+   <metadata>
+      <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
+         <dc:Language>pt</dc:Language>
+         <dc:Date>2025-04-09</dc:Date>
+         <dc:Publisher>Watch Tower Bible and Tract Society of Pennsylvania</dc:Publisher>
+         <dc:Title>Nossa Vida e Ministério Cristão — Apostila da Reunião 202505</dc:Title>
+         <dc:Identifier id=""/>
+         <dc:Creator>Watchtower</dc:Creator>
+         <dc:Type>text</dc:Type>
+      </dc-metadata>
+      <x-metadata>
+         <meta name="dtb:multimediaType" content="audioFullText"/>
+         <meta name="dtb:totalTime" content="0:46:18.618"/>
+         <meta name="dtb:multimediaContent" content="audio,text,image"/>
+         <meta name="dtb:narrator" content=""/>
+         <meta name="dtb:audioFormat" content="MP3"/>
+         <meta name="dtb:producedDate" content="2025-04-09"/>
+      </x-metadata>
+   </metadata>
+   <manifest>
+      <item href="package.opf" id="opf" media-type="text/xml"/>
+      <item href="0001.mp3" id="opf-1" media-type="audio/mpeg"/>
+      <item href="0002.mp3" id="opf-2" media-type="audio/mpeg"/>
+      <item href="0003.mp3" id="opf-3" media-type="audio/mpeg"/>
+      <item href="0004.mp3" id="opf-4" media-type="audio/mpeg"/>
+      <item href="0005.mp3" id="opf-5" media-type="audio/mpeg"/>
+      <item href="0006.mp3" id="opf-6" media-type="audio/mpeg"/>
+      <item href="0007.mp3" id="opf-7" media-type="audio/mpeg"/>
+      <item href="0008.mp3" id="opf-8" media-type="audio/mpeg"/>
+      <item href="0009.mp3" id="opf-9" media-type="audio/mpeg"/>
+      <item href="1.jpg" id="opf-10" media-type="image/jpeg"/>
+      <item href="2.jpg" id="opf-11" media-type="image/jpeg"/>
+      <item href="3.jpg" id="opf-12" media-type="image/jpeg"/>
+      <item href="4.jpg" id="opf-13" media-type="image/jpeg"/>
+      <item href="5.jpg" id="opf-14" media-type="image/jpeg"/>
+      <item href="6.jpg" id="opf-15" media-type="image/jpeg"/>
+      <item href="7.jpg" id="opf-16" media-type="image/jpeg"/>
+      <item href="8.jpg" id="opf-17" media-type="image/jpeg"/>
+      <item href="9.jpg" id="opf-18" media-type="image/jpeg"/>
+      <item href="10.jpg" id="opf-19" media-type="image/jpeg"/>
+      <item href="11.jpg" id="opf-20" media-type="image/jpeg"/>
+      <item href="12.jpg" id="opf-21" media-type="image/jpeg"/>
+      <item href="13.jpg" id="opf-22" media-type="image/jpeg"/>
+      <item href="14.jpg" id="opf-23" media-type="image/jpeg"/>
+      <item href="15.jpg" id="opf-24" media-type="image/jpeg"/>
+      <item href="16.jpg" id="opf-25" media-type="image/jpeg"/>
+      <item href="17.jpg" id="opf-26" media-type="image/jpeg"/>
+      <item href="18.jpg" id="opf-27" media-type="image/jpeg"/>
+      <item href="dtbook.2005.basic.css" id="opf-28" media-type="text/css"/>
+      <item href="0001.xml" id="opf-29" media-type="application/x-dtbook+xml"/>
+      <item href="0002.xml" id="opf-30" media-type="application/x-dtbook+xml"/>
+      <item href="0003.xml" id="opf-31" media-type="application/x-dtbook+xml"/>
+      <item href="0004.xml" id="opf-32" media-type="application/x-dtbook+xml"/>
+      <item href="0005.xml" id="opf-33" media-type="application/x-dtbook+xml"/>
+      <item href="0006.xml" id="opf-34" media-type="application/x-dtbook+xml"/>
+      <item href="0007.xml" id="opf-35" media-type="application/x-dtbook+xml"/>
+      <item href="0008.xml" id="opf-36" media-type="application/x-dtbook+xml"/>
+      <item href="0009.xml" id="opf-37" media-type="application/x-dtbook+xml"/>
+      <item href="0001.smil" id="0001" media-type="application/smil+xml"/>
+      <item href="0002.smil" id="0002" media-type="application/smil+xml"/>
+      <item href="0003.smil" id="0003" media-type="application/smil+xml"/>
+      <item href="0004.smil" id="0004" media-type="application/smil+xml"/>
+      <item href="0005.smil" id="0005" media-type="application/smil+xml"/>
+      <item href="0006.smil" id="0006" media-type="application/smil+xml"/>
+      <item href="0007.smil" id="0007" media-type="application/smil+xml"/>
+      <item href="0008.smil" id="0008" media-type="application/smil+xml"/>
+      <item href="0009.smil" id="0009" media-type="application/smil+xml"/>
+      <item href="navigation.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+      <item href="text.res" id="resource" media-type="application/x-dtbresource+xml"/>
+   </manifest>
+   <spine>
+      <itemref idref="0001"/>
+      <itemref idref="0002"/>
+      <itemref idref="0003"/>
+      <itemref idref="0004"/>
+      <itemref idref="0005"/>
+      <itemref idref="0006"/>
+      <itemref idref="0007"/>
+      <itemref idref="0008"/>
+      <itemref idref="0009"/>
+   </spine>
+</package>

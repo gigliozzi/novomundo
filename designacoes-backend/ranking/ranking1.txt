@@ -1,0 +1,399 @@
+Nome: Mateus Marinho Talon
+Número de vezes que aparece no arquivo: 6
+Data: 2025-06-04, Presidente
+Data: 2025-06-11, Dirigente Sala B
+Data: 2025-06-18, Estudo bíblico de congregação
+Data: 2025-05-28, Oração final
+Data: 2025-05-21, Oração final
+Data: 2025-05-21, Dirigente Sala B
+
+Nome: William dos Santos Gigliozzi
+Número de vezes que aparece no arquivo: 6
+Data: 2025-06-04, Dirigente Sala B
+Data: 2025-06-11, Necessidades Locais
+Data: 2025-06-18, Presidente
+Data: 2025-05-21, Esteja preparado para um desastre
+Data: 2025-05-14, Oração final
+Data: 2025-05-07, Oração final
+
+Nome: Diego Nunes da Silva
+Número de vezes que aparece no arquivo: 5
+Data: 2025-06-04, Oração final
+Data: 2025-06-11, Estudo bíblico de congregação
+Data: 2025-06-18, Dirigente Sala B
+Data: 2025-05-28, Tesouros da Palavra de Deus
+Data: 2025-05-14, Presidente
+
+Nome: Bruno Nunes Amaral
+Número de vezes que aparece no arquivo: 4
+Data: 2025-06-04, 3. Leitura da Bíblia
+Data: 2025-06-11, Discurso
+Data: 2025-05-28, Oração inicial
+Data: 2025-05-14, 5. Iniciando conversas
+
+Nome: Aldair Pereira Farinha
+Número de vezes que aparece no arquivo: 4
+Data: 2025-05-21, Leitura da Bíblia
+Data: 2025-05-14, Oração inicial
+Data: 2025-05-14, Leitura da Bíblia Sala B
+Data: 2025-05-07, Leitura da Bíblia
+
+Nome: Daniel Lopes Lessa
+Número de vezes que aparece no arquivo: 4
+Data: 2025-06-11, Oração inicial
+Data: 2025-05-21, Joias Espirituais
+Data: 2025-05-14, Ajudante em 4. Iniciando conversas
+Data: 2025-05-07, Ajudante em 4. Iniciando conversas
+
+Nome: Elisom Antônio dos Santos
+Número de vezes que aparece no arquivo: 4
+Data: 2025-06-11, Tesouros da Palavra de Deus
+Data: 2025-05-21, Estudo bíblico de congregação
+Data: 2025-05-14, Dirigente Sala B
+Data: 2025-05-07, Dirigente Sala B
+
+Nome: Sebastião Paulo dos Santos
+Número de vezes que aparece no arquivo: 2
+Data: 2025-06-11, Oração final
+Data: 2025-05-14, A luz dos justos
+
+Nome: Eduardo Pereira
+Número de vezes que aparece no arquivo: 4
+Data: 2025-06-18, Leitura da Bíblia
+Data: 2025-06-18, Leitura da Bíblia
+Data: 2025-05-14, Ajudante em 5. Iniciando conversas
+Data: 2025-05-07, Ajudante em 5. Iniciando conversas
+
+Nome: Marcilene
+Número de vezes que aparece no arquivo: 4
+Data: 2025-06-18, Iniciando conversas
+Data: 2025-06-18, Iniciando conversas
+Data: 2025-05-14, Ajudante em 5. Iniciando conversas
+Data: 2025-05-07, Ajudante em 5. Iniciando conversas
+
+Nome: Laiane Marinho Talon
+Número de vezes que aparece no arquivo: 4
+Data: 2025-06-18, Ajudante em Iniciando conversas
+Data: 2025-06-18, Ajudante em Iniciando conversas
+Data: 2025-05-14, 5. Iniciando conversas
+Data: 2025-05-07, 5. Iniciando conversas
+
+Nome: Hugo Martins Barros
+Número de vezes que aparece no arquivo: 4
+Data: 2025-06-18, Oração final
+Data: 2025-05-28, Presidente
+Data: 2025-05-14, Necessidades Locais
+Data: 2025-05-07, Necessidades Locais
+
+Nome: Rosilene Francisco de Oliveira
+Número de vezes que aparece no arquivo: 4
+Data: 2025-05-28, 5. Iniciando conversas (TESTEMUNHO INFORMAL)
+Data: 2025-05-21, Ajudante em 5. Cultivando o intresse (CASA EM CASA)
+Data: 2025-05-14, Ajudante em 6. Discurso
+Data: 2025-05-07, Ajudante em 6. Discurso
+
+Nome: Maikon Farrad de Paula Rodrigues
+Número de vezes que aparece no arquivo: 3
+Data: 2025-06-11, Joias Espirituais
+Data: 2025-05-14, Joias Espirituais
+Data: 2025-05-07, Joias Espirituais
+
+Nome: Cleude Lopes Lessa
+Número de vezes que aparece no arquivo: 3
+Data: 2025-06-18, Cultivando o interesse (TP)
+Data: 2025-05-14, 4. Iniciando conversas
+Data: 2025-05-07, 4. Iniciando conversas
+
+Nome: João Batista Ferreira
+Número de vezes que aparece no arquivo: 3
+Data: 2025-05-28, Joias Espirituais
+Data: 2025-05-14, 6. Discurso
+Data: 2025-05-07, 6. Discurso
+
+Nome: Márcio Ferreira de Abadia
+Número de vezes que aparece no arquivo: 3
+Data: 2025-05-28, Dirigente Sala B
+Data: 2025-05-14, Estudo bíblico de congregação
+Data: 2025-05-07, Estudo bíblico de congregação
+
+Nome: João Miguel
+Número de vezes que aparece no arquivo: 2
+Data: 2025-06-04, Leitura da Bíblia
+Data: 2025-06-11, Discurso
+
+Nome: Adriane Lira
+Número de vezes que aparece no arquivo: 2
+Data: 2025-06-04, Cultivando o interesse
+Data: 2025-05-21, 6. Fazendo discípulos
+
+Nome: Aldair Farinha
+Número de vezes que aparece no arquivo: 2
+Data: 2025-06-04, Ajudante em Estudo bíblico de congregação
+Data: 2025-06-18, Ajudante em Estudo bíblico de congregação
+
+Nome: Terezinha Flores
+Número de vezes que aparece no arquivo: 2
+Data: 2025-06-04, Ajudante em Cultivando o interesse
+Data: 2025-05-28, Ajudante em 6. Fazendo discípulos
+
+Nome: Lidiane
+Número de vezes que aparece no arquivo: 2
+Data: 2025-06-18, Ajudante em Cultivando o interesse (TP)
+Data: 2025-06-18, Ajudante em Cultivando o interesse (TP)
+
+Nome: Leonita
+Número de vezes que aparece no arquivo: 2
+Data: 2025-06-18, Cultivando o interesse (TI)
+Data: 2025-06-18, Cultivando o interesse (TI)
+
+Nome: Madalena
+Número de vezes que aparece no arquivo: 2
+Data: 2025-06-18, Ajudante em Cultivando o interesse (TI)
+Data: 2025-06-18, Ajudante em Cultivando o interesse (TI)
+
+Nome: Johnathan Luiz Teixeira
+Número de vezes que aparece no arquivo: 2
+Data: 2025-05-28, Estudo bíblico de congregação
+Data: 2025-05-21, Presidente
+
+Nome: Dyllan Mackenze dos Santos Melo
+Número de vezes que aparece no arquivo: 2
+Data: 2025-05-14, Tesouros da Palavra de Deus
+Data: 2025-05-07, Tesouros da Palavra de Deus
+
+Nome: Max Paulo
+Número de vezes que aparece no arquivo: 2
+Data: 2025-05-14, Leitura da Bíblia
+Data: 2025-05-07, Leitura da Bíblia
+
+Nome: Juliene Carla de Melo Milhomem
+Número de vezes que aparece no arquivo: 2
+Data: 2025-05-14, 4. Iniciando conversas
+Data: 2025-05-07, 4. Iniciando conversas
+
+Nome: Jeovana Barbosa Sousa
+Número de vezes que aparece no arquivo: 2
+Data: 2025-05-14, Ajudante em 4. Iniciando conversas
+Data: 2025-05-07, Ajudante em 4. Iniciando conversas
+
+Nome: ----
+Número de vezes que aparece no arquivo: 2
+Data: 2025-05-14, Ajudante em 6. Discurso
+Data: 2025-05-07, Ajudante em 6. Discurso
+
+Nome: Jorge Pereira Magalhães Cavalcante
+Número de vezes que aparece no arquivo: 2
+Data: 2025-05-14, 6. Discurso
+Data: 2025-05-07, 6. Discurso
+
+Nome: Cesar Deodado
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Oração inicial
+
+Nome: Vanildo Gomes
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Tesouros da Palavra de Deus
+
+Nome: Dyllan Mackenze
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Joias Espirituais
+
+Nome: Aurea Fernanda
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Iniciando conversas
+
+Nome: Aline Santos
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Ajudante em Iniciando conversas
+
+Nome: Raquel Samylli
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Ajudante em Cultivando o interesse
+
+Nome: Marcelo Milhomem
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Discurso
+
+Nome: Hugo Martins
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Estudo bíblico de congregação
+
+Nome: Taís Lima
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, 4. Iniciando conversas
+
+Nome: Francilda
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Ajudante em 4. Iniciando conversas
+
+Nome: Eronildes
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Cultivando o interesse
+
+Nome: Gabriel Nunes Amaral
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-04, Discurso
+
+Nome: Johnattan Luiz Teixeira
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Presidente
+
+Nome: André Carlos
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Leitura da Bíblia
+
+Nome: Shirley
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Iniciando conversas (parte 1)
+
+Nome: Cláudia Cordeiro Noronha de Souza
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Ajudante em Iniciando conversas (parte 1)
+
+Nome: Carmélia
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Iniciando conversas (parte 2)
+
+Nome: Valdelice
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Ajudante em Iniciando conversas (parte 2)
+
+Nome: César Deodado
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Ajudante em Estudo bíblico de congregação
+
+Nome: José Bezerra
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Leitura da Bíblia
+
+Nome: Germi
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Iniciando conversas (parte 1)
+
+Nome: Neusita
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Ajudante em Iniciando conversas (parte 1)
+
+Nome: Heida
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Iniciando conversas (parte 2)
+
+Nome: Geraldina
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-11, Ajudante em Iniciando conversas (parte 2)
+
+Nome: Marcelo Alves Milhomem
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-18, Oração inicial
+
+Nome: Iago de Lima
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-18, Joias Espirituais
+
+Nome: Cleude
+Número de vezes que aparece no arquivo: 1
+Data: 2025-06-18, Cultivando o interesse (TP)
+
+Nome: Eliseu
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, Leitura da Bíblia
+
+Nome: Marlene Vieira de Sousa
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, 4. Iniciando conversas (CASA EM CASA)
+
+Nome: Marta
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, Ajudante em 4. Iniciando conversas (CASA EM CASA)
+
+Nome: Railane Vieira Lima
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, Ajudante em 5. Iniciando conversas (TESTEMUNHO INFORMAL)
+
+Nome: Uelida Martins de Lima
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, 6. Fazendo discípulos
+
+Nome: Vanildo dos Santos Gomes
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, Podemos ter um coração
+
+Nome: Roberto Lira
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, Leitura da Bíblia
+
+Nome: Raquel Primo Xavier
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, 4. Iniciando conversas (CASA EM CASA)
+
+Nome: Thayla
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, Ajudante em 4. Iniciando conversas (CASA EM CASA)
+
+Nome: Sheila
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, 5. Iniciando conversas (TESTEMUNHO INFORMAL)
+
+Nome: Joseane de Sousa Bandeira Teixeira
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, Ajudante em 5. Iniciando conversas (TESTEMUNHO INFORMAL)
+
+Nome: Cristiane
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, 6. Fazendo discípulos
+
+Nome: Aguida
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-28, Ajudante em 6. Fazendo discípulos
+
+Nome: Andre Carlos
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, Oração inicial
+
+Nome: Silvio César Maçaneiro
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, Tesouros da Palavra de Deus
+
+Nome: Lurdes
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, 4. Iniciando conversas (TESTEMUNHO PÚBLICO)
+
+Nome: Luzia Mafra
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, Ajudante em 4. Iniciando conversas (TESTEMUNHO PÚBLICO)
+
+Nome: Maria Helena
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, 5. Cultivando o interesse (CASA EM CASA)
+
+Nome: Marly Vieira
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, Ajudante em 5. Cultivando o interesse (CASA EM CASA)
+
+Nome: Maria da Luz
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, 6. Fazendo discípulos
+
+Nome: Maria José
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, Ajudante em 6. Fazendo discípulos
+
+Nome: Arthur Deodato
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, Leitura da Bíblia
+
+Nome: Lidiane Leite Maçaneiro
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, 4. Iniciando conversas (CASA EM CASA)
+
+Nome: Ludimila dos Anjos Santos Deodato
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, Ajudante em 4. Iniciando conversas (CASA EM CASA)
+
+Nome: Maria Zelia Marcelino Lopes
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, 5. Cultivando o intresse (CASA EM CASA)
+
+Nome: Taís de Lima
+Número de vezes que aparece no arquivo: 1
+Data: 2025-05-21, Ajudante em 6. Fazendo discípulos

@@ -1,0 +1,1472 @@
+[
+  {
+    "data": "2025-08-27",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Márcio Ferreira" }
+        },
+        "Tesouros: Oração inicial": {
+          "participantes": { "nome": "José Bezerra" }
+        },
+        "Tesouros: 1. Ter amigos faz bem": {
+          "participantes": { "nome": "Elisom Santos" }
+        },
+        "Tesouros: 2. Joias Espirituais": {
+          "participantes": { "nome": "Daniel Lessa" }
+        },
+        "Tesouros: 3. Leitura da Bíblia": {
+          "participantes": { "nome": "Sávio Mota" }
+        },
+        "Faça melhor: 4. Iniciando conversas": {
+          "participantes": {
+            "nome": "Andressa Barros",
+            "ajudante": "Terezinha Ferreira"
+          }
+        },
+        "Faça melhor: 5. Iniciando conversas": {
+          "participantes": {
+            "nome": "Laiane Talon",
+            "ajudante": "Ivanilde Reis"
+          }
+        },
+        "Faça melhor: 6. Iniciando conversas": {
+          "participantes": {
+            "nome": "Jeovana Souza",
+            "ajudante": "Sheila Castro"
+          }
+        },
+        "Faça melhor: 7. Iniciando conversas": {
+          "participantes": {
+            "nome": "Joseane Teixeira",
+            "ajudante": "Abadia Lemes"
+          }
+        },
+        "Vida Cristã: 8. Você odeia violência?": {
+          "participantes": {
+            "nome": "Hugo Martins"
+          }
+        },
+        "Vida Cristã: 9. Campanha especial em setembro": {
+          "participantes": {
+            "nome": "Márcio Ferreira"
+          }
+        },
+        "Vida Cristã: 8. Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Sebastião Santos"
+          }
+        },
+        "Vida Cristã: Leitor Estudo Bíblico": {
+          "participantes": {
+            "nome": "Andre Carlos"
+          }
+        },
+        "Vida Cristã: Oração final": {
+          "participantes": { "nome": "Mateus Talon" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Vanildo Gomes" }
+        },
+        "Tesouros: 3. Leitura da Bíblia": {
+          "participantes": { "nome": "Antônio Tavares" }
+        },
+        "Faça melhor: 4. Iniciando conversas": {
+          "participantes": {
+            "nome": "Carla Milhomem",
+            "ajudante": "Maria Helena"
+          }
+        },
+        "Faça melhor: 5. Iniciando conversas": {
+          "participantes": {
+            "nome": "Uelida Martins",
+            "ajudante": "Terezinha Ferreira"
+          }
+        },
+        "Faça melhor: 6. Iniciando conversas": {
+          "participantes": {
+            "nome": "Marlene Vieira",
+            "ajudante": "Antônia Vitória"
+          }
+        },
+        "Faça melhor: 7. Iniciando conversas": {
+          "participantes": {
+            "nome": "Marly Moura",
+            "ajudante": "Madalena Narciso"
+          }
+        }       
+      }
+    }
+  },
+  {
+    "data": "2025-08-20",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "William Gigliozzi" }
+        },
+        "Tesouros: Oração inicial": {
+          "participantes": { "nome": "Diego Nunes" }
+        },
+        "Tesouros: 1. Ter amigos faz bem": {
+          "participantes": { "nome": "Dyllan Mackenze" }
+        },
+        "Tesouros: 2. Joias Espirituais": {
+          "participantes": { "nome": "Maikon Farrad" }
+        },
+        "Tesouros: 3. Leitura da Bíblia": {
+          "participantes": { "nome": "Juvenício" }
+        },
+        "Faça melhor: 4. Iniciando conversas (TESTEMUNHO PÚBLICO)": {
+          "participantes": {
+            "nome": "Rauleni Francisco",
+            "ajudante": "Maria Helena"
+          }
+        },
+        "Faça melhor: 5. Cultivando o interesse (TESTEMUNHO INFORMAL)": {
+          "participantes": {
+            "nome": "Jeovana Souza",
+            "ajudante": "Sheila Castro"
+          }
+        },
+        "Faça melhor: 6. Discurso": {
+          "participantes": {
+            "nome": "Aldair Farinha",
+            "ajudante": "*****"
+          }
+        },
+        "Vida Cristã: 7. Um irmão em tempos de aflição": {
+          "participantes": {
+            "nome": "Johnathan Luiz"
+          }
+        },
+        "Vida Cristã: 8. Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Mateus Talon"
+          }
+        },
+        "Vida Cristã: Leitor Estudo Bíblico": {
+          "participantes": {
+            "nome": "Bruno Nunes"
+          }
+        },
+        "Vida Cristã: Oração final": {
+          "participantes": { "nome": "Elisom Santos" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Hugo Martins" }
+        },
+        "Tesouros: 3. Leitura da Bíblia": {
+          "participantes": { "nome": "Elio Davi" }
+        },
+        "Faça melhor: 4. Iniciando conversas (DE CASA EM CASA)": {
+          "participantes": {
+            "nome": "Aguida Santos",
+            "ajudante": "Marlene Justiniano"
+          }
+        },
+        "Faça melhor: 5. Cultivando o interesse (TESTEMUNHO INFORMAL)": {
+          "participantes": {
+            "nome": "Abadia Lemes",
+            "ajudante": "Carina Bessa"
+          }
+        },
+        "Faça melhor: 6. Discurso": {
+          "participantes": {
+            "nome": "Eduardo Pereira",
+            "ajudante": "*****"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-08-13",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Elisom Santos" }
+        },
+        "Tesouros: Oração inicial": {
+          "participantes": { "nome": "Roberto Lira" }
+        },
+        "Tesouros: 1. Fique longe de quem é tolo": {
+          "participantes": { "nome": "Sebastião Santos" }
+        },
+        "Tesouros: 2. Joias Espirituais": {
+          "participantes": { "nome": "João Batista" }
+        },
+        "Tesouros: 3. Leitura da Bíblia": {
+          "participantes": { "nome": "Alípio Moura" },
+          "referencia": "th lição 5"
+        },
+        "Faça melhor: 4. Iniciando conversas (DE CASA EM CASA)": {
+          "participantes": {
+            "nome": "Maria Zélia",
+            "ajudante": "Joseane Teixeira"
+          }
+        },
+        "Faça melhor: 5. Cultivando o interesse (DE CASA EM CASA)": {
+          "participantes": {
+            "nome": "Taís Lima",
+            "ajudante": "Raquel Samylli"
+          }
+        },
+        "Faça melhor: 6. Fazendo discípulos": {
+          "participantes": {
+            "nome": "Lidiane Maçaneiro",
+            "ajudante": "Maria Helena"
+          }
+        },
+        "Vida Cristã: 7. Torne-se “sábio para a salvação” por meio do estudo pessoal": {
+          "participantes": {
+            "nome": "Diego Nunes"
+          }
+        },
+        "Vida Cristã: 8. Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Hugo Martins"
+          }
+        },
+        "Vida Cristã: Leitor Estudo Bíblico": {
+          "participantes": {
+            "nome": "Eliseu Silva"
+          }
+        },
+        "Vida Cristã: Oração final": {
+          "participantes": { "nome": "Daniel Lessa" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Johnathan Luiz" }
+        },
+        "Tesouros: 3. Leitura da Bíblia": {
+          "participantes": { "nome": "Eduardo Pereira" }
+        },
+        "Faça melhor: 4. Iniciando conversas (DE CASA EM CASA)": {
+          "participantes": {
+            "nome": "Sávio Mota",
+            "ajudante": "Marcelo Milhomem"
+          }
+        },
+        "Faça melhor: 5. Cultivando o interesse (DE CASA EM CASA)": {
+          "participantes": {
+            "nome": "Maria da Luz",
+            "ajudante": "Marlene Vieira"
+          }
+        },
+        "Faça melhor: 6. Fazendo discípulos": {
+          "participantes": {
+            "nome": "Terezinha Flores",
+            "ajudante": "Marly Vieira"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-08-05",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Vanildo Gomes" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Marcelo Milhomem" }
+        },
+        "Tesouros da Palavra de Deus (1)": {
+          "participantes": { "nome": "Mateus Talon" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Iago Lima" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "João Batista" },
+          "referencia": "th lição 5"
+        },
+        "Iniciando conversas (4) (TESTEMUNHO INFORMAL)": {
+          "participantes": {
+            "nome": "Raquel Primo",
+            "ajudante": "Áurea Fernanda"
+          },
+          "referencia": "AAAAA"
+        },
+        "Cultivando o interesse (5) (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Aline Santos",
+            "ajudante": "Madalena"
+          },
+          "referencia": "AAAAA"
+        },
+        "Discurso (6)": {
+          "participantes": {
+            "nome": "João Miguel",
+            "ajudante": "******"
+          },
+          "referencia": "AAAAA"
+        },
+        "Vida Cristã (7): Necessidades Locais": {
+          "participantes": {
+            "nome": "Diego Nunes"
+          }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "não há",
+            "ajudante": "não há"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Hugo Martins" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "AAAAA" }
+        },
+        "---  da Bíblia": {
+          "participantes": { "nome": "AAAAA" },
+          "referencia": "AAAAA"
+        },
+        "--- conversas (TESTEMUNHO PÚBLICO)": {
+          "participantes": {
+            "nome": "AAAAA",
+            "ajudante": "AAAAA"
+          },
+          "referencia": "AAAAA"
+        },
+        "---  o interesse (CASA EM CASA)": {
+          "participantes": {
+            "nome": "AAAAA",
+            "ajudante": "AAAAA"
+          },
+          "referencia": "AAAAA"
+        },
+        "--- discípulos": {
+          "participantes": {
+            "nome": "AAAAA",
+            "ajudante": "AAAAA"
+          },
+          "referencia": "AAAAA"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-30",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Mateus Talon" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Maikon Farrad" }
+        },
+        "Tesouros da Palavra de Deus (1)": {
+          "participantes": { "nome": "William Gigliozzi" }
+        },
+        "Joias Espirituais (2)": {
+          "participantes": { "nome": "Sivio Maçaneiro" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Yuri Kamynsky" },
+          "referencia": "th lição 11"
+        },
+        "Iniciando conversas (4) (TESTEMUNHO INFORMAL)": {
+          "participantes": {
+            "nome": "Thayla Ferreira",
+            "ajudante": "Rosilene Oliveira"
+          },
+          "referencia": "lmd lição 2 ponto 4"
+        },
+        "Iniciando conversas (5) (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Ivanilde Reis",
+            "ajudante": "Uélida Martins"
+          },
+          "referencia": "lmd lição 3 ponto 4"
+        },
+        "Iniciando conversas (6) (TESTEMUNHO PÚBLICO)": {
+          "participantes": {
+            "nome": "Carina Bessa",
+            "ajudante": "Laiane Talon"
+          },
+          "referencia": "lmd lição 4 ponto 3"
+        },
+        "Discurso (7)": {
+          "participantes": {
+            "nome": "Marcelo Milhomem",
+            "ajudante": "******"
+          },
+          "referencia": "th lição 6"
+        },
+        "Vida Cristã (1): Ajudem uns aos outros em situações difíceis": {
+          "participantes": {
+            "nome": "Elisom Santos"
+          }
+        },
+        "Vida Cristã: Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Johnathan Luiz",
+            "ajudante": "Daniel Lessa"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Cesar Deodado" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Márcio Ferreira" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Arthur Deodado" },
+          "referencia": "th lição 11"
+        },
+        "Iniciando conversas (4) (TESTEMUNHO INFORMAL)": {
+          "participantes": {
+            "nome": "Elio Davi",
+            "ajudante": "Roberto Lira"
+          },
+          "referencia": "lmd lição 2 ponto 4"
+        },
+        "Iniciando conversas (5) (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Antônia Vitória",
+            "ajudante": "Ludimila Deodado"
+          },
+          "referencia": "lmd lição 3 ponto 4"
+        },
+        "Iniciando conversas (6) (TESTEMUNHO PÚBLICO)": {
+          "participantes": {
+            "nome": "Marcilene Brandão",
+            "ajudante": "Germi Vieira"
+          }
+        },
+        "Discurso (7)": {
+          "participantes": {
+            "nome": "Dyllan Mackenze",
+            "ajudante": "******"
+          }
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-23",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Hugo Martins" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "João Batista" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Márcio Ferreira" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Diego Nunes" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Juvenício" },
+          "referencia": "th lição 5"
+        },
+        "Iniciando conversas (TESTEMUNHO PÚBLICO)": {
+          "participantes": {
+            "nome": "Railane Vieira",
+            "ajudante": "Terezinha Flores"
+          },
+          "referencia": "lmd lição 3 ponto 5"
+        },
+        "Cultivando o interesse (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Taís Lima",
+            "ajudante": "Águida"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Fazendo discípulos": {
+          "participantes": {
+            "nome": "Rauleni Santos",
+            "ajudante": "Abadia Lemes"
+          },
+          "referencia": "lmd lição 12 ponto 4"
+        },
+        "Devo servir bebidas alcoólicas ou não?": {
+          "participantes": {
+            "nome": "Sebastião Santos"
+          }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Elisom Santos",
+            "ajudante": "Aldair Farinha"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Eliseu" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "William Gigliozzi" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Elio Davi" },
+          "referencia": "th lição 5"
+        },
+        "Iniciando conversas (TESTEMUNHO PÚBLICO)": {
+          "participantes": {
+            "nome": "Cleude Lessa",
+            "ajudante": "Cristiane"
+          },
+          "referencia": "lmd lição 3 ponto 5"
+        },
+        "Cultivando o interesse (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Antônia",
+            "ajudante": "Andressa Barros"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Fazendo discípulos": {
+          "participantes": {
+            "nome": "Adriane Lira",
+            "ajudante": "Eronildes"
+          },
+          "referencia": "lmd lição 12 ponto 4"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-16",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Johnathan Luiz" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Jorge Luiz" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Diego Nunes" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Elisom Santos" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Sávio" },
+          "referencia": "th lição 5"
+        },
+        "Iniciando conversas (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Heida Amaral",
+            "ajudante": "Jeovana Sousa"
+          },
+          "referencia": "lmd lição 5 ponto 4"
+        },
+        "Iniciando conversas (TESTEMUNHO INFORMAL)": {
+          "participantes": {
+            "nome": "Luzia Mafra",
+            "ajudante": "Marlene Vieira"
+          },
+          "referencia": "lmd lição 1 ponto 4"
+        },
+        "Discurso": {
+          "participantes": {
+            "nome": "Aldair Farinha",
+            "ajudante": "******"
+          },
+          "referencia": "th lição 20"
+        },
+        "Seja paciente, mas não aceite o mau comportamento": {
+          "participantes": {
+            "nome": "Vanildo Gomes"
+          }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Márcio Ferreira",
+            "ajudante": "César Deodado"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Dyllan Mackenze" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Mateus Talon" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Henrique" },
+          "referencia": "th lição 10"
+        },
+        "4. Iniciando conversas (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Maria Helena",
+            "ajudante": "Valdelice"
+          },
+          "referencia": "lmd lição 5 ponto 4"
+        },
+        "5. Iniciando conversas (TESTEMUNHO INFORMAL)": {
+          "participantes": {
+            "nome": "Raquel Samylli",
+            "ajudante": "Shirley"
+          },
+          "referencia": "lmd lição 1 ponto 4"
+        },
+        "Discurso": {
+          "participantes": {
+            "nome": "Eliseu",
+            "ajudante": "******"
+          },
+          "referencia": "th lição 20"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-09",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Diego Nunes" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Iago Lima" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Hugo Martins" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Johnathan Luiz" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Andre Carlos" },
+          "referencia": "th lição 5"
+        },
+        "Iniciando conversas": {
+          "participantes": {
+            "nome": "Cristiane",
+            "ajudante": "Ludimila Deodato"
+          },
+          "referencia": "lmd lição 3 ponto 3"
+        },
+        "Cultivando o interesse": {
+          "participantes": {
+            "nome": "Eronildes",
+            "ajudante": "Marcilene"
+          },
+          "referencia": "lmd lição 7 ponto 3"
+        },
+        "Explicando suas crenças": {
+          "participantes": {
+            "nome": "Germi Vieira",
+            "ajudante": "Lurdes"
+          },
+          "referencia": "lmd lição 4 ponto 3"
+        },
+        "Mostre respeito no seu casamento": {
+          "participantes": { "nome": "Sebastião Santos" }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Vanildo Gomes",
+            "ajudante": "Marcelo Milhomem"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Eliseu" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Elisom Santos" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "César Deodado" },
+          "referencia": "th lição 5"
+        },
+        "Iniciando conversas": {
+          "participantes": {
+            "nome": "Uelida Martins",
+            "ajudante": "Ivanilde Reis"
+          },
+          "referencia": "lmd lição 3 ponto 3"
+        },
+        "Cultivando o interesse": {
+          "participantes": {
+            "nome": "Joseane Teixeira",
+            "ajudante": "Maria da Luz"
+          },
+          "referencia": "lmd lição 7 ponto 3"
+        },
+        "Explicando suas crenças": {
+          "participantes": {
+            "nome": "Sheila",
+            "ajudante": "Maria Zélia"
+          },
+          "referencia": "lmd lição 4 ponto 3"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-07-02",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Márcio Ferreira" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Eliseu" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Iago Lima" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Daniel Lessa" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Yuri Kamynsky" },
+          "referencia": "th lição 5"
+        },
+        "Iniciando conversas": {
+          "participantes": {
+            "nome": "Adriane Lira",
+            "ajudante": "Abadia Lemes"
+          },
+          "referencia": "lmd lição 3 ponto 3"
+        },
+        "Cultivando o interesse": {
+          "participantes": {
+            "nome": "Carla Milhomem",
+            "ajudante": "Marlene Justiniano"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Explicando suas crenças": {
+          "participantes": {
+            "nome": "Marly Vieira",
+            "ajudante": "Bruna Sampaio"
+          },
+          "referencia": "lmd lição 3 ponto 4"
+        },
+        "Incentive outros a experimentar nosso curso bíblico": {
+          "participantes": { "nome": "Hugo Martins" }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Elisom Santos",
+            "ajudante": "Jorge Luiz"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "William Gigliozzi" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Vanildo Gomes" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Alipio Moura" },
+          "referencia": "th lição 5"
+        },
+        "Iniciando conversas": {
+          "participantes": {
+            "nome": "Aguida",
+            "ajudante": "Aline Santos"
+          },
+          "referencia": "lmd lição 3 ponto 3"
+        },
+        "Cultivando o interesse": {
+          "participantes": {
+            "nome": "Aurea Fernanda",
+            "ajudante": "Carina"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Explicando suas crenças": {
+          "participantes": {
+            "nome": "Cláudia Cordeiro",
+            "ajudante": "Lidiane Maçaneiro"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-06-04",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Mateus Talon" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Cesar Deodado" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Vanildo Gomes" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Dyllan Mackenze" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "João Miguel" },
+          "referencia": "th lição 12"
+        },
+        "Iniciando conversas": {
+          "participantes": {
+            "nome": "Aurea Fernanda",
+            "ajudante": "Aline Santos"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "Cultivando o interesse": {
+          "participantes": {
+            "nome": "Adriane Lira",
+            "ajudante": "Raquel Samylli"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Discurso": {
+          "participantes": { "nome": "Marcelo Milhomem" },
+          "referencia": "th lição 8"
+        },
+        "Boletim do Corpo Governante - 3": {
+          "participantes": { "nome": "Mateus Talon" }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Hugo Martins",
+            "ajudante": "Aldair Farinha"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Diego Nunes" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "William Gigliozzi" }
+        },
+        "3. Leitura da Bíblia": {
+          "participantes": { "nome": "Bruno Nunes Amaral" },
+          "referencia": "th lição 12"
+        },
+        "4. Iniciando conversas": {
+          "participantes": {
+            "nome": "Taís Lima",
+            "ajudante": "Francilda"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "Cultivando o interesse": {
+          "participantes": {
+            "nome": "Eronildes",
+            "ajudante": "Terezinha Flores"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Discurso": {
+          "participantes": { "nome": "Gabriel Nunes Amaral" },
+          "referencia": "th lição 8"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-06-11",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Johnathan Luiz" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Daniel Lessa" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Elisom Santos" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Maikon Farrad" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "André Carlos" },
+          "referencia": "th lição 10"
+        },
+        "Iniciando conversas (parte 1)": {
+          "participantes": {
+            "nome": "Shirley",
+            "ajudante": "Cláudia Cordeiro Noronha de Souza"
+          },
+          "referencia": "lmd lição 3 ponto 5"
+        },
+        "Iniciando conversas (parte 2)": {
+          "participantes": {
+            "nome": "Carmélia",
+            "ajudante": "Valdelice"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Discurso": {
+          "participantes": { "nome": "Bruno Nunes Amaral" },
+          "referencia": "th lição 8"
+        },
+        "Necessidades Locais": {
+          "participantes": { "nome": "William Gigliozzi" }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Diego Nunes",
+            "ajudante": "César Deodado"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Sebastião Santos" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Mateus Talon" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "José Bezerra" },
+          "referencia": "th lição 10"
+        },
+        "Iniciando conversas (parte 1)": {
+          "participantes": {
+            "nome": "Germi",
+            "ajudante": "Neusita"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "Iniciando conversas (parte 2)": {
+          "participantes": {
+            "nome": "Heida",
+            "ajudante": "Geraldina"
+          },
+          "referencia": "lmd lição 6 ponto 4"
+        },
+        "Discurso": {
+          "participantes": { "nome": "João Miguel" },
+          "referencia": "th lição 13"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-06-18",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "William Gigliozzi" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Marcelo Alves Milhomem" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Johnathan Luiz" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Iago Lima" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Eduardo Pereira" }
+        },
+        "Iniciando conversas": {
+          "participantes": {
+            "nome": "Marcilene",
+            "ajudante": "Elise"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "Cultivando o interesse (TP)": {
+          "participantes": {
+            "nome": "Cleude Lopes Lessa",
+            "ajudante": "Lidiane"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        },
+        "Cultivando o interesse (TI)": {
+          "participantes": {
+            "nome": "Heida de Sousa Amaral",
+            "ajudante": "Aguida"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Explicando suas crenças": {
+          "participantes": {
+            "nome": "Ludimila dos Anjos Santos Deodato",
+            "ajudante": "Thayla"
+          },
+          "referencia": "ijwfq artigo 29"
+        },
+        "Mesmo sem palavaras": {
+          "participantes": { "nome": "Vanildo Gomes" }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Mateus Talon",
+            "ajudante": "Aldair Farinha"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Hugo Martins" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Diego Nunes" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Eduardo Pereira" },
+          "referencia": "th lição 10"
+        },
+        "Iniciando conversas": {
+          "participantes": {
+            "nome": "Marcilene",
+            "ajudante": "Laiane Marinho Talon"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "Cultivando o interesse (TP)": {
+          "participantes": {
+            "nome": "Cleude Lopes Lessa",
+            "ajudante": "Lidiane"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        },
+        "Cultivando o interesse (TI)": {
+          "participantes": {
+            "nome": "Leonita",
+            "ajudante": "Madalena"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Explicando suas crenças": {
+          "participantes": { "nome": "Bruno Nunes Amaral" },
+          "referencia": "th lição 8"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-05-28",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Hugo Martins" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Bruno Nunes Amaral" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Diego Nunes" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "João Batista" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Eliseu" }
+        },
+        "4. Iniciando conversas (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Marlene Vieira de Sousa",
+            "ajudante": "Marta"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "5. Iniciando conversas (TESTEMUNHO INFORMAL)": {
+          "participantes": {
+            "nome": "Rosilene Francisco de Oliveira",
+            "ajudante": "Railane Vieira"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        },
+        "6. Fazendo discípulos": {
+          "participantes": {
+            "nome": "Uelida Martins de Lima",
+            "ajudante": "Terezinha Flores"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Podemos ter um coração": {
+          "participantes": { "nome": "Vanildo Gomes" }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Johnathan Luiz",
+            "Leitor": "Eduardo Pereira"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Mateus Talon" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Márcio Ferreira" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Roberto Lira" },
+          "referencia": "th lição 10"
+        },
+        "4. Iniciando conversas (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Raquel Primo Xavier",
+            "ajudante": "Thayla"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "5. Iniciando conversas (TESTEMUNHO INFORMAL)": {
+          "participantes": {
+            "nome": "Sheila",
+            "ajudante": "Joseane de Sousa Bandeira Teixeira"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        },
+        "6. Fazendo discípulos": {
+          "participantes": {
+            "nome": "Cristiane",
+            "ajudante": "Aguida"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-05-21",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Johnathan Luiz" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Andre Carlos" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Silvio César Maçaneiro" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Daniel Lessa" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Aldair Pereira Farinha" }
+        },
+        "4. Iniciando conversas (TESTEMUNHO PÚBLICO)": {
+          "participantes": {
+            "nome": "Lurdes",
+            "ajudante": "Luzia Mafra"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "5. Cultivando o interesse (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Maria Helena",
+            "ajudante": "Marly Vieira"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        },
+        "6. Fazendo discípulos": {
+          "participantes": {
+            "nome": "Maria da Luz",
+            "ajudante": "Maria José"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Esteja preparado para um desastre": {
+          "participantes": { "nome": "William Gigliozzi" }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Elisom Santos",
+            "leitor": "Bruno Nunes Amaral"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Mateus Talon" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Mateus Talon" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Arthur Deodato" },
+          "referencia": "th lição 10"
+        },
+        "4. Iniciando conversas (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Lidiane Maçaneiro",
+            "ajudante": "Ludimila dos Anjos Santos Deodato"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "5. Cultivando o intresse (CASA EM CASA)": {
+          "participantes": {
+            "nome": "Maria Zelia Marcelino Lopes",
+            "ajudante": "Rosilene Francisco de Oliveira"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        },
+        "6. Fazendo discípulos": {
+          "participantes": {
+            "nome": "Adriane Lira",
+            "ajudante": "Taís Lima"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-05-14",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Diego Nunes" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Aldair Pereira Farinha" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Dyllan Mackenze" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Maikon Farrad" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Max Paulo" }
+        },
+        "4. Iniciando conversas": {
+          "participantes": {
+            "nome": "Carla Milhomem",
+            "ajudante": "Jeovana Barbosa Sousa"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "5. Iniciando conversas": {
+          "participantes": {
+            "nome": "Bruno Nunes Amaral",
+            "ajudante": "Eduardo Pereira"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        },
+        "6. Discurso": {
+          "participantes": {
+            "nome": "João Batista",
+            "ajudante": "----"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "A luz dos justos": {
+          "participantes": { "nome": "Sebastião Santos" }
+        },
+        "Necessidades Locais": {
+          "participantes": { "nome": "Hugo Martins" }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "Márcio Ferreira",
+            "leitor": "Andre Carlos"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "William Gigliozzi" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Elisom Santos" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Aldair Pereira Farinha" }
+        },
+        "4. Iniciando conversas": {
+          "participantes": {
+            "nome": "Cleude Lopes Lessa",
+            "ajudante": "Daniel Lessa"
+          }
+        },
+        "5. Iniciando conversas": {
+          "participantes": {
+            "nome": "Laiane Marinho Talon",
+            "ajudante": "Marcilene"
+          }
+        },
+        "6. Discurso": {
+          "participantes": {
+            "nome": "Jorge Pereira Magalhães Cavalcante",
+            "ajudante": "Rosilene Francisco de Oliveira"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        }
+      }
+    }
+  },
+  {
+    "data": "2025-05-07",
+    "origem": {
+      "tipo": "url",
+      "valor": "https://www.jw.org/pt/biblioteca/jw-apostila-do-mes/maio-junho-2025-mwb/"
+    },
+    "salas": {
+      "Salão principal": {
+        "Presidente": {
+          "participantes": { "nome": "Márcio Ferreira" }
+        },
+        "Oração inicial": {
+          "participantes": { "nome": "Daniel Lessa" }
+        },
+        "Tesouros da Palavra de Deus": {
+          "participantes": { "nome": "Johnathan Luiz" }
+        },
+        "Joias Espirituais": {
+          "participantes": { "nome": "Dyllan Mackenze" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Arthur Deodato" }
+        },
+        "4. Iniciando conversas": {
+          "participantes": {
+            "nome": "Rosilene Francisco de Oliveira",
+            "ajudante": "Cristiane"
+          },
+          "referencia": "lmd lição 2 ponto 5"
+        },
+        "5. Iniciando conversas": {
+          "participantes": {
+            "nome": "Aguida",
+            "ajudante": "Eronildes"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        },
+        "6. Cultivando o interesse": {
+          "participantes": {
+            "nome": "Geraldina Lopes da Silva Almeida",
+            "ajudante": "Heida de Sousa Amaral"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "7. Explicando suas crenças": {
+          "participantes": {
+            "nome": "Elise",
+            "ajudante": "Germi Vieira de Sousa"
+          },
+          "referencia": "lmd lição 9 ponto 5"
+        },
+        "Como enfrentar problemas financeiros": {
+          "participantes": { "nome": "Mateus Talon" }
+        },
+        "Estudo bíblico de congregação": {
+          "participantes": {
+            "nome": "William Gigliozzi",
+            "ajudante": "Silvio César Maçaneiro"
+          }
+        },
+        "Oração final": {
+          "participantes": { "nome": "Vanildo Gomes" }
+        }
+      },
+      "Sala B": {
+        "Dirigente": {
+          "participantes": { "nome": "Hugo Barros" }
+        },
+        "Leitura da Bíblia": {
+          "participantes": { "nome": "Max Paulo" }
+        },
+        "4. Iniciando conversas": {
+          "participantes": {
+            "nome": "Andressa Barros",
+            "ajudante": "Adriane Lira"
+          }
+        },
+        "5. Iniciando conversas": {
+          "participantes": {
+            "nome": "Bruna Sampaio",
+            "ajudante": "Aline Pereira do Vale Santos"
+          }
+        },
+        "6. Explicando suas crenças": {
+          "participantes": {
+            "nome": "Cláudia Cordeiro Noronha de Souza",
+            "ajudante": "Carmélia"
+          },
+          "referencia": "lmd lição 7 ponto 4"
+        }
+      }
+    }
+  }
+]

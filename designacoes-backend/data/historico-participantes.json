@@ -1,0 +1,944 @@
+[
+  {
+    "nome": "Mateus Talon",
+    "data": "2025-06-04",
+    "parte": "Presidente",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "César Deodato",
+    "data": "2025-06-04",
+    "parte": "Oração inicial",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Vanildo Gomes",
+    "data": "2025-06-04",
+    "parte": "Tesouros da Palavra de Deus",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Dyllan Mackenze",
+    "data": "2025-06-04",
+    "parte": "Joias Espirituais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "João Miguel",
+    "data": "2025-06-04",
+    "parte": "Leitura da Bíblia",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Aurea Fernanda",
+    "data": "2025-06-04",
+    "parte": "Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Aline Santos",
+    "data": "2025-06-04",
+    "parte": "Ajudante em Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Adriane Lira",
+    "data": "2025-06-04",
+    "parte": "Cultivando o interesse",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Raquel Samylli",
+    "data": "2025-06-04",
+    "parte": "Ajudante em Cultivando o interesse",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Marcelo Milhomem",
+    "data": "2025-06-04",
+    "parte": "Discurso",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Mateus Talon",
+    "data": "2025-06-04",
+    "parte": "Necessidades Locais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Hugo Martins",
+    "data": "2025-06-04",
+    "parte": "Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Aldair Farinha",
+    "data": "2025-06-04",
+    "parte": "Ajudante em Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Diego Silva",
+    "data": "2025-06-04",
+    "parte": "Oração final",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "William Gigliozzi",
+    "data": "2025-06-04",
+    "parte": "Dirigente",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Bruno Nunes Amaral",
+    "data": "2025-06-04",
+    "parte": "3. Leitura da Bíblia",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Taís Lima",
+    "data": "2025-06-04",
+    "parte": "4. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Francilda",
+    "data": "2025-06-04",
+    "parte": "Ajudante em 4. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Eronildes",
+    "data": "2025-06-04",
+    "parte": "Cultivando o interesse",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Terezinha Flores",
+    "data": "2025-06-04",
+    "parte": "Ajudante em Cultivando o interesse",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Gabriel Nunes Amaral",
+    "data": "2025-06-04",
+    "parte": "Discurso",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Johnathan Teixeira",
+    "data": "2025-06-11",
+    "parte": "Presidente",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Daniel Lessa",
+    "data": "2025-06-11",
+    "parte": "Oração inicial",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Elisom Santos",
+    "data": "2025-06-11",
+    "parte": "Tesouros da Palavra de Deus",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Maikon Farrad",
+    "data": "2025-06-11",
+    "parte": "Joias Espirituais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "André Carlos",
+    "data": "2025-06-11",
+    "parte": "Leitura da Bíblia",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Shirley",
+    "data": "2025-06-11",
+    "parte": "Iniciando conversas (parte 1)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Cláudia Cordeiro Noronha de Souza",
+    "data": "2025-06-11",
+    "parte": "Ajudante em Iniciando conversas (parte 1)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Carmélia",
+    "data": "2025-06-11",
+    "parte": "Iniciando conversas (parte 2)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Valdelice",
+    "data": "2025-06-11",
+    "parte": "Ajudante em Iniciando conversas (parte 2)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Bruno Nunes Amaral",
+    "data": "2025-06-11",
+    "parte": "Discurso",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "William Gigliozzi",
+    "data": "2025-06-11",
+    "parte": "Necessidades Locais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Diego Silva",
+    "data": "2025-06-11",
+    "parte": "Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "César Deodado",
+    "data": "2025-06-11",
+    "parte": "Ajudante em Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Sebastião Santos",
+    "data": "2025-06-11",
+    "parte": "Oração final",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Mateus Talon",
+    "data": "2025-06-11",
+    "parte": "Dirigente",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "José Bezerra",
+    "data": "2025-06-11",
+    "parte": "Leitura da Bíblia",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Germi",
+    "data": "2025-06-11",
+    "parte": "Iniciando conversas (parte 1)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Neusita",
+    "data": "2025-06-11",
+    "parte": "Ajudante em Iniciando conversas (parte 1)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Heida de Sousa Amaral",
+    "data": "2025-06-11",
+    "parte": "Iniciando conversas (parte 2)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Geraldina",
+    "data": "2025-06-11",
+    "parte": "Ajudante em Iniciando conversas (parte 2)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "João Miguel",
+    "data": "2025-06-11",
+    "parte": "Discurso",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "William Gigliozzi",
+    "data": "2025-06-18",
+    "parte": "Presidente",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Marcelo Milhomem",
+    "data": "2025-06-18",
+    "parte": "Oração inicial",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Sebastião Santos",
+    "data": "2025-06-18",
+    "parte": "Tesouros da Palavra de Deus",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Iago Lima",
+    "data": "2025-06-18",
+    "parte": "Joias Espirituais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Eduardo Pereira",
+    "data": "2025-06-18",
+    "parte": "Leitura da Bíblia",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Marcilene",
+    "data": "2025-06-18",
+    "parte": "Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Laiane Marinho Talon",
+    "data": "2025-06-18",
+    "parte": "Ajudante em Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Cleude",
+    "data": "2025-06-18",
+    "parte": "Cultivando o interesse (TP)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Lidiane",
+    "data": "2025-06-18",
+    "parte": "Ajudante em Cultivando o interesse (TP)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Leonita",
+    "data": "2025-06-18",
+    "parte": "Cultivando o interesse (TI)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Madalena",
+    "data": "2025-06-18",
+    "parte": "Ajudante em Cultivando o interesse (TI)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Bruno Nunes Amaral",
+    "data": "2025-06-18",
+    "parte": "Explicando suas crenças",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "William Gigliozzi",
+    "data": "2025-06-18",
+    "parte": "Necessidades Locais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Mateus Talon",
+    "data": "2025-06-18",
+    "parte": "Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Aldair Farinha",
+    "data": "2025-06-18",
+    "parte": "Ajudante em Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Hugo Martins Barros",
+    "data": "2025-06-18",
+    "parte": "Oração final",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Diego Silva",
+    "data": "2025-06-18",
+    "parte": "Dirigente",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Eduardo Pereira",
+    "data": "2025-06-18",
+    "parte": "Leitura da Bíblia",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Marcilene",
+    "data": "2025-06-18",
+    "parte": "Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Laiane Marinho Talon",
+    "data": "2025-06-18",
+    "parte": "Ajudante em Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Cleude Lopes Lessa",
+    "data": "2025-06-18",
+    "parte": "Cultivando o interesse (TP)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Lidiane",
+    "data": "2025-06-18",
+    "parte": "Ajudante em Cultivando o interesse (TP)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Leonita",
+    "data": "2025-06-18",
+    "parte": "Cultivando o interesse (TI)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Madalena",
+    "data": "2025-06-18",
+    "parte": "Ajudante em Cultivando o interesse (TI)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Bruno Nunes Amaral",
+    "data": "2025-06-18",
+    "parte": "Explicando suas crenças",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Hugo Martins Barros",
+    "data": "2025-05-28",
+    "parte": "Presidente",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Bruno Nunes Amaral",
+    "data": "2025-05-28",
+    "parte": "Oração inicial",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Diego Silva",
+    "data": "2025-05-28",
+    "parte": "Tesouros da Palavra de Deus",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "João Batista Ferreira",
+    "data": "2025-05-28",
+    "parte": "Joias Espirituais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Eliseu",
+    "data": "2025-05-28",
+    "parte": "Leitura da Bíblia",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Marlene Vieira de Sousa",
+    "data": "2025-05-28",
+    "parte": "4. Iniciando conversas (CASA EM CASA)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Marta",
+    "data": "2025-05-28",
+    "parte": "Ajudante em 4. Iniciando conversas (CASA EM CASA)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Rosilene Francisco de Oliveira",
+    "data": "2025-05-28",
+    "parte": "5. Iniciando conversas (TESTEMUNHO INFORMAL)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Railane Vieira Lima",
+    "data": "2025-05-28",
+    "parte": "Ajudante em 5. Iniciando conversas (TESTEMUNHO INFORMAL)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Uelida Martins de Lima",
+    "data": "2025-05-28",
+    "parte": "6. Fazendo discípulos",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Terezinha Flores",
+    "data": "2025-05-28",
+    "parte": "Ajudante em 6. Fazendo discípulos",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Vanildo Gomes",
+    "data": "2025-05-28",
+    "parte": "Podemos ter um coração",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Johnathan Teixeira",
+    "data": "2025-05-28",
+    "parte": "Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Mateus Talon",
+    "data": "2025-05-28",
+    "parte": "Oração final",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Márcio Abadia",
+    "data": "2025-05-28",
+    "parte": "Dirigente",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Roberto Lira",
+    "data": "2025-05-28",
+    "parte": "Leitura da Bíblia",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Raquel Primo Xavier",
+    "data": "2025-05-28",
+    "parte": "4. Iniciando conversas (CASA EM CASA)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Thayla",
+    "data": "2025-05-28",
+    "parte": "Ajudante em 4. Iniciando conversas (CASA EM CASA)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Sheila",
+    "data": "2025-05-28",
+    "parte": "5. Iniciando conversas (TESTEMUNHO INFORMAL)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Joseane de Sousa Bandeira Teixeira",
+    "data": "2025-05-28",
+    "parte": "5. Iniciando conversas (TESTEMUNHO INFORMAL)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Cristiane",
+    "data": "2025-05-28",
+    "parte": "6. Fazendo discípulos",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Aguida",
+    "data": "2025-05-28",
+    "parte": "Ajudante em 6. Fazendo discípulos",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Johnathan Teixeira",
+    "data": "2025-05-21",
+    "parte": "Presidente",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Andre Carlos",
+    "data": "2025-05-21",
+    "parte": "Oração inicial",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Silvio Maçaneiro",
+    "data": "2025-05-21",
+    "parte": "Tesouros da Palavra de Deus",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Daniel Lessa",
+    "data": "2025-05-21",
+    "parte": "Joias Espirituais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Aldair Pereira Farinha",
+    "data": "2025-05-21",
+    "parte": "Leitura da Bíblia",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Lurdes",
+    "data": "2025-05-21",
+    "parte": "4. Iniciando conversas (TESTEMUNHO PÚBLICO)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Luzia Mafra",
+    "data": "2025-05-21",
+    "parte": "Ajudante em 4. Iniciando conversas (TESTEMUNHO PÚBLICO)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Maria Helena",
+    "data": "2025-05-21",
+    "parte": "5. Cultivando o interesse (CASA EM CASA)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Marly Vieira",
+    "data": "2025-05-21",
+    "parte": "Ajudante em 5. Cultivando o interesse (CASA EM CASA)",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Maria da Luz",
+    "data": "2025-05-21",
+    "parte": "6. Fazendo discípulos",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Maria José",
+    "data": "2025-05-21",
+    "parte": "Ajudante em 6. Fazendo discípulos",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "William Gigliozzi",
+    "data": "2025-05-21",
+    "parte": "Esteja preparado para um desastre",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Elisom Santos",
+    "data": "2025-05-21",
+    "parte": "Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Mateus Talon",
+    "data": "2025-05-21",
+    "parte": "Oração final",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Mateus Talon",
+    "data": "2025-05-21",
+    "parte": "Dirigente",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Arthur Deodato",
+    "data": "2025-05-21",
+    "parte": "Leitura da Bíblia",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Lidiane Maçaneiro",
+    "data": "2025-05-21",
+    "parte": "4. Iniciando conversas (CASA EM CASA)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Ludimila Deodato",
+    "data": "2025-05-21",
+    "parte": "Ajudante em 4. Iniciando conversas (CASA EM CASA)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Maria Zelia Marcelino Lopes",
+    "data": "2025-05-21",
+    "parte": "5. Cultivando o intresse (CASA EM CASA)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Rosilene Francisco de Oliveira",
+    "data": "2025-05-21",
+    "parte": "Ajudante em 5. Cultivando o intresse (CASA EM CASA)",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Adriane Lira",
+    "data": "2025-05-21",
+    "parte": "6. Fazendo discípulos",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Taís de Lima",
+    "data": "2025-05-21",
+    "parte": "Ajudante em 6. Fazendo discípulos",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Diego Silva",
+    "data": "2025-05-14",
+    "parte": "Presidente",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Aldair Pereira Farinha",
+    "data": "2025-05-14",
+    "parte": "Oração inicial",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Dyllan Mackenze",
+    "data": "2025-05-14",
+    "parte": "Tesouros da Palavra de Deus",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Maikon Farrad",
+    "data": "2025-05-14",
+    "parte": "Joias Espirituais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Max Paulo",
+    "data": "2025-05-14",
+    "parte": "Leitura da Bíblia",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Carla Milhomem",
+    "data": "2025-05-14",
+    "parte": "4. Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Jeovana Barbosa Sousa",
+    "data": "2025-05-14",
+    "parte": "Ajudante em 4. Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Bruno Nunes Amaral",
+    "data": "2025-05-14",
+    "parte": "5. Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Eduardo Pereira",
+    "data": "2025-05-14",
+    "parte": "Ajudante em 5. Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "João Batista Ferreira",
+    "data": "2025-05-14",
+    "parte": "6. Discurso",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "----",
+    "data": "2025-05-14",
+    "parte": "Ajudante em 6. Discurso",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Sebastião Santos",
+    "data": "2025-05-14",
+    "parte": "A luz dos justos",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Hugo Martins Barros",
+    "data": "2025-05-14",
+    "parte": "Necessidades Locais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Márcio Abadia",
+    "data": "2025-05-14",
+    "parte": "Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "William Gigliozzi",
+    "data": "2025-05-14",
+    "parte": "Oração final",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Elisom Santos",
+    "data": "2025-05-14",
+    "parte": "Dirigente",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Aldair Pereira Farinha",
+    "data": "2025-05-14",
+    "parte": "Leitura da Bíblia",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Cleude Lopes Lessa",
+    "data": "2025-05-14",
+    "parte": "4. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Daniel Lessa",
+    "data": "2025-05-14",
+    "parte": "Ajudante em 4. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Laiane Marinho Talon",
+    "data": "2025-05-14",
+    "parte": "5. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Marcilene",
+    "data": "2025-05-14",
+    "parte": "Ajudante em 5. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Jorge Cavalcante",
+    "data": "2025-05-14",
+    "parte": "6. Discurso",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Rosilene Francisco de Oliveira",
+    "data": "2025-05-14",
+    "parte": "Ajudante em 6. Discurso",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Diego Silva",
+    "data": "2025-05-07",
+    "parte": "Presidente",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Aldair Pereira Farinha",
+    "data": "2025-05-07",
+    "parte": "Oração inicial",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Dyllan Mackenze",
+    "data": "2025-05-07",
+    "parte": "Tesouros da Palavra de Deus",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Maikon Farrad",
+    "data": "2025-05-07",
+    "parte": "Joias Espirituais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Max Paulo",
+    "data": "2025-05-07",
+    "parte": "Leitura da Bíblia",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Carla Milhomem",
+    "data": "2025-05-07",
+    "parte": "4. Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Jeovana Barbosa Sousa",
+    "data": "2025-05-07",
+    "parte": "Ajudante em 4. Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Bruno Nunes Amaral",
+    "data": "2025-05-07",
+    "parte": "5. Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Eduardo Pereira",
+    "data": "2025-05-07",
+    "parte": "Ajudante em 5. Iniciando conversas",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "João Batista Ferreira",
+    "data": "2025-05-07",
+    "parte": "6. Discurso",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "----",
+    "data": "2025-05-07",
+    "parte": "Ajudante em 6. Discurso",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Sebastião Santos",
+    "data": "2025-05-07",
+    "parte": "A luz dos justos",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Hugo Martins Barros",
+    "data": "2025-05-07",
+    "parte": "Necessidades Locais",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Márcio Abadia",
+    "data": "2025-05-07",
+    "parte": "Estudo bíblico de congregação",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "William Gigliozzi",
+    "data": "2025-05-07",
+    "parte": "Oração final",
+    "sala": "Salão principal"
+  },
+  {
+    "nome": "Elisom Santos",
+    "data": "2025-05-07",
+    "parte": "Dirigente",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Aldair Pereira Farinha",
+    "data": "2025-05-07",
+    "parte": "Leitura da Bíblia",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Cleude Lopes Lessa",
+    "data": "2025-05-07",
+    "parte": "4. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Daniel Lessa",
+    "data": "2025-05-07",
+    "parte": "Ajudante em 4. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Laiane Marinho Talon",
+    "data": "2025-05-07",
+    "parte": "5. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Marcilene",
+    "data": "2025-05-07",
+    "parte": "Ajudante em 5. Iniciando conversas",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Jorge Cavalcante",
+    "data": "2025-05-07",
+    "parte": "6. Discurso",
+    "sala": "Sala B"
+  },
+  {
+    "nome": "Rosilene Francisco de Oliveira",
+    "data": "2025-05-07",
+    "parte": "Ajudante em 6. Discurso",
+    "sala": "Sala B"
+  }
+]

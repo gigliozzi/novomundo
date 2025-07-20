@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="pt">
+  <head>
+    <meta name="dtb:uid" content=""/>
+    <meta name="dtb:totalPageCount" content="6" />
+    <meta name="dtb:maxPageNumber" content="16" />
+    <meta name="dc:creator" content="Watchtower" />
+    <meta name="dc:date" content="2025-04-09" scheme="yyyy-mm-dd" />
+    <meta name="dc:language" content="pt" scheme="ISO 639" />
+    <meta name="dc:publisher" content="Watch Tower Bible and Tract Society of Pennsylvania" />
+    <meta name="dc:title" content="Nossa Vida e Ministério Cristão — Apostila da Reunião 202505" />
+    <meta name="dc:type" content="text" />
+    <meta name="dc:identifier" content="" />
+    <meta name="dc:format" content="ANSI/NISO Z39.86-2005" />
+    <meta name="ncc:narrator" content="" />
+    <meta name="ncc:producedDate" content="2025-04-09" />
+    <meta name="dtb:generator" content="Anemone 1.81 (http://ssb22.user.srcf.net/anemone)" />
+    <meta name="ncc:charset" content="utf-8" />
+    <meta name="ncc:pageFront" content="0" />
+    <meta name="ncc:maxPageNormal" content="16" />
+    <meta name="ncc:pageNormal" content="6" />
+    <meta name="ncc:pageSpecial" content="0" />
+    <meta name="ncc:tocItems" content="156" />
+    <meta name="ncc:totalTime" content="0:46:18.618" />
+    <meta name="ncc:multimediaType" content="audioFullText" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="ncc:files" content="47" />
+  </head>
+  <docTitle><text>Nossa Vida e Ministério Cristão — Apostila da Reunião 202505</text></docTitle>
+  <docAuthor><text>Watchtower</text></docAuthor>
+  <navMap id="navMap">
+    <navPoint id="s1" class="h1" playOrder="1">
+      <navLabel><text>5-11 de maio</text><audio src="0001.mp3" clipBegin="0:00:00.000" clipEnd="0:00:10.939"/></navLabel>
+      <content src="0001.smil#pr1.0"/>
+    <navPoint id="s2" class="h2" playOrder="2">
+      <navLabel><text>PROVÉRBIOS 12</text><audio src="0001.mp3" clipBegin="0:00:10.939" clipEnd="0:00:15.042"/></navLabel>
+      <content src="0001.smil#pr1.1"/>
+    <navPoint id="s3" class="h3" playOrder="3">
+      <navLabel><text>Cântico 101 e oração | Comentários iniciais (1 min)</text><audio src="0001.mp3" clipBegin="0:00:15.042" clipEnd="0:00:20.683"/></navLabel>
+      <content src="0001.smil#pr1.2"/>
+    </navPoint></navPoint>
+    <navPoint id="s4" class="h2" playOrder="4">
+      <navLabel><text>TESOUROS DA PALAVRA DE DEUS</text><audio src="0001.mp3" clipBegin="0:00:20.683" clipEnd="0:00:23.344"/></navLabel>
+      <content src="0001.smil#pr1.3"/>
+    <navPoint id="s5" class="h3" playOrder="5">
+      <navLabel><text>1. Vale a pena trabalhar duro</text><audio src="0001.mp3" clipBegin="0:00:23.344" clipEnd="0:00:26.706"/></navLabel>
+      <content src="0001.smil#pr1.4"/>
+    </navPoint>
+    <navPoint id="s6" class="h3" playOrder="6">
+      <navLabel><text>2. Joias espirituais</text><audio src="0001.mp3" clipBegin="0:02:20.599" clipEnd="0:02:24.040"/></navLabel>
+      <content src="0001.smil#pr1.10"/>
+    </navPoint>
+    <navPoint id="s7" class="h3" playOrder="7">
+      <navLabel><text>3. Leitura da Bíblia</text><audio src="0001.mp3" clipBegin="0:02:55.243" clipEnd="0:02:58.152"/></navLabel>
+      <content src="0001.smil#pr1.14"/>
+    </navPoint></navPoint>
+    <navPoint id="s8" class="h2" playOrder="8">
+      <navLabel><text>FAÇA SEU MELHOR NO MINISTÉRIO</text><audio src="0001.mp3" clipBegin="0:03:07.571" clipEnd="0:03:10.552"/></navLabel>
+      <content src="0001.smil#pr1.16"/>
+    <navPoint id="s9" class="h3" playOrder="9">
+      <navLabel><text>4. Iniciando conversas</text><audio src="0001.mp3" clipBegin="0:03:10.552" clipEnd="0:03:13.833"/></navLabel>
+      <content src="0001.smil#pr1.17"/>
+    </navPoint>
+    <navPoint id="s10" class="h3" playOrder="10">
+      <navLabel><text>5. Iniciando conversas</text><audio src="0001.mp3" clipBegin="0:03:23.164" clipEnd="0:03:26.180"/></navLabel>
+      <content src="0001.smil#pr1.19"/>
+    </navPoint>
+    <navPoint id="s11" class="h3" playOrder="11">
+      <navLabel><text>6. Cultivando o interesse</text><audio src="0001.mp3" clipBegin="0:03:37.089" clipEnd="0:03:39.981"/></navLabel>
+      <content src="0001.smil#pr1.21"/>
+    </navPoint>
+    <navPoint id="s12" class="h3" playOrder="12">
+      <navLabel><text>7. Explicando suas crenças</text><audio src="0001.mp3" clipBegin="0:03:52.965" clipEnd="0:03:56.336"/></navLabel>
+      <content src="0001.smil#pr1.23"/>
+    </navPoint></navPoint>
+    <navPoint id="s13" class="h2" playOrder="13">
+      <navLabel><text>NOSSA VIDA CRISTÃ</text><audio src="0001.mp3" clipBegin="0:04:16.629" clipEnd="0:04:18.545"/></navLabel>
+      <content src="0001.smil#pr1.25"/>
+    <navPoint id="s14" class="h3" playOrder="14">
+      <navLabel><text>Cântico 21</text><audio src="0001.mp3" clipBegin="0:04:18.545" clipEnd="0:04:20.585"/></navLabel>
+      <content src="0001.smil#pr1.26"/>
+    </navPoint>
+    <navPoint id="s15" class="h3" playOrder="15">
+      <navLabel><text>8. Como enfrentar problemas financeiros com a ajuda de Jeová</text><audio src="0001.mp3" clipBegin="0:04:20.585" clipEnd="0:04:25.570"/></navLabel>
+      <content src="0001.smil#pr1.27"/>
+    </navPoint>
+    <navPoint id="s16" class="h3" playOrder="16">
+      <navLabel><text>9. Estudo bíblico de congregação</text><audio src="0001.mp3" clipBegin="0:06:22.416" clipEnd="0:06:26.017"/></navLabel>
+      <content src="0001.smil#pr1.39"/>
+    </navPoint>
+    <navPoint id="s17" class="h3" playOrder="17">
+      <navLabel><text>Comentários finais (3 min) | Cântico 57 e oração</text><audio src="0001.mp3" clipBegin="0:06:36.572" clipEnd="0:06:45.055"/></navLabel>
+      <content src="0001.smil#pr1.41"/>
+    </navPoint></navPoint></navPoint>
+    <navPoint id="s18" class="h1" playOrder="18">
+      <navLabel><text>12-18 de maio</text><audio src="0002.mp3" clipBegin="0:00:00.000" clipEnd="0:00:03.396"/></navLabel>
+      <content src="0002.smil#pr2.0"/>
+    <navPoint id="s19" class="h2" playOrder="19">
+      <navLabel><text>PROVÉRBIOS 13</text><audio src="0002.mp3" clipBegin="0:00:03.396" clipEnd="0:00:07.409"/></navLabel>
+      <content src="0002.smil#pr2.1"/>
+    <navPoint id="s20" class="h3" playOrder="20">
+      <navLabel><text>Cântico 34 e oração | Comentários iniciais (1 min)</text><audio src="0002.mp3" clipBegin="0:00:07.409" clipEnd="0:00:13.804"/></navLabel>
+      <content src="0002.smil#pr2.2"/>
+    </navPoint></navPoint>
+    <navPoint id="s21" class="h2" playOrder="21">
+      <navLabel><text>TESOUROS DA PALAVRA DE DEUS</text><audio src="0002.mp3" clipBegin="0:00:13.804" clipEnd="0:00:16.472"/></navLabel>
+      <content src="0002.smil#pr2.3"/>
+    <navPoint id="s22" class="h3" playOrder="22">
+      <navLabel><text>1. Não seja enganado pela “lâmpada dos maus”</text><audio src="0002.mp3" clipBegin="0:00:16.472" clipEnd="0:00:21.105"/></navLabel>
+      <content src="0002.smil#pr2.4"/>
+    </navPoint>
+    <navPoint id="s23" class="h3" playOrder="23">
+      <navLabel><text>2. Joias espirituais</text><audio src="0002.mp3" clipBegin="0:02:03.644" clipEnd="0:02:06.997"/></navLabel>
+      <content src="0002.smil#pr2.11"/>
+    </navPoint>
+    <navPoint id="s24" class="h3" playOrder="24">
+      <navLabel><text>3. Leitura da Bíblia</text><audio src="0002.mp3" clipBegin="0:02:33.907" clipEnd="0:02:36.650"/></navLabel>
+      <content src="0002.smil#pr2.15"/>
+    </navPoint></navPoint>
+    <navPoint id="s25" class="h2" playOrder="25">
+      <navLabel><text>FAÇA SEU MELHOR NO MINISTÉRIO</text><audio src="0002.mp3" clipBegin="0:02:44.896" clipEnd="0:02:47.897"/></navLabel>
+      <content src="0002.smil#pr2.17"/>
+    <navPoint id="s26" class="h3" playOrder="26">
+      <navLabel><text>4. Iniciando conversas</text><audio src="0002.mp3" clipBegin="0:02:47.897" clipEnd="0:02:50.844"/></navLabel>
+      <content src="0002.smil#pr2.18"/>
+    </navPoint>
+    <navPoint id="s27" class="h3" playOrder="27">
+      <navLabel><text>5. Iniciando conversas</text><audio src="0002.mp3" clipBegin="0:03:07.279" clipEnd="0:03:10.392"/></navLabel>
+      <content src="0002.smil#pr2.20"/>
+    </navPoint>
+    <navPoint id="s28" class="h3" playOrder="28">
+      <navLabel><text>6. Discurso</text><audio src="0002.mp3" clipBegin="0:03:21.584" clipEnd="0:03:23.956"/></navLabel>
+      <content src="0002.smil#pr2.22"/>
+    </navPoint></navPoint>
+    <navPoint id="s29" class="h2" playOrder="29">
+      <navLabel><text>NOSSA VIDA CRISTÃ</text><audio src="0002.mp3" clipBegin="0:03:39.484" clipEnd="0:03:41.763"/></navLabel>
+      <content src="0002.smil#pr2.24"/>
+    <navPoint id="s30" class="h3" playOrder="30">
+      <navLabel><text>Cântico 77</text><audio src="0002.mp3" clipBegin="0:03:41.763" clipEnd="0:03:44.154"/></navLabel>
+      <content src="0002.smil#pr2.25"/>
+    </navPoint>
+    <navPoint id="s31" class="h3" playOrder="31">
+      <navLabel><text>7. “A luz dos justos brilha intensamente”</text><audio src="0002.mp3" clipBegin="0:03:44.154" clipEnd="0:03:48.471"/></navLabel>
+      <content src="0002.smil#pr2.26"/>
+    </navPoint>
+    <navPoint id="s32" class="h3" playOrder="32">
+      <navLabel><text>SUGESTÃO PARA SUA ADORAÇÃO EM FAMÍLIA:</text><audio src="0002.mp3" clipBegin="0:04:47.748" clipEnd="0:04:50.712"/></navLabel>
+      <content src="0002.smil#pr2.33"/>
+    </navPoint>
+    <navPoint id="s33" class="h3" playOrder="33">
+      <navLabel><text>8. Necessidades locais</text><audio src="0002.mp3" clipBegin="0:05:02.238" clipEnd="0:05:05.444"/></navLabel>
+      <content src="0002.smil#pr2.35"/>
+    </navPoint>
+    <navPoint id="s34" class="h3" playOrder="34">
+      <navLabel><text>9. Estudo bíblico de congregação</text><audio src="0002.mp3" clipBegin="0:05:07.056" clipEnd="0:05:10.965"/></navLabel>
+      <content src="0002.smil#pr2.37"/>
+    </navPoint>
+    <navPoint id="s35" class="h3" playOrder="35">
+      <navLabel><text>Comentários finais (3 min) | Cântico 43 e oração</text><audio src="0002.mp3" clipBegin="0:05:17.859" clipEnd="0:05:26.661"/></navLabel>
+      <content src="0002.smil#pr2.39"/>
+    </navPoint></navPoint></navPoint>
+    <navPoint id="s36" class="h1" playOrder="36">
+      <navLabel><text>19-25 de maio</text><audio src="0003.mp3" clipBegin="0:00:00.000" clipEnd="0:00:03.826"/></navLabel>
+      <content src="0003.smil#pr3.0"/>
+    <navPoint id="s37" class="h2" playOrder="37">
+      <navLabel><text>PROVÉRBIOS 14</text><audio src="0003.mp3" clipBegin="0:00:03.826" clipEnd="0:00:08.181"/></navLabel>
+      <content src="0003.smil#pr3.1"/>
+    <navPoint id="s38" class="h3" playOrder="38">
+      <navLabel><text>Cântico 89 e oração | Comentários iniciais (1 min)</text><audio src="0003.mp3" clipBegin="0:00:08.181" clipEnd="0:00:14.417"/></navLabel>
+      <content src="0003.smil#pr3.2"/>
+    </navPoint></navPoint>
+    <navPoint id="s39" class="h2" playOrder="39">
+      <navLabel><text>TESOUROS DA PALAVRA DE DEUS</text><audio src="0003.mp3" clipBegin="0:00:14.417" clipEnd="0:00:16.941"/></navLabel>
+      <content src="0003.smil#pr3.3"/>
+    <navPoint id="s40" class="h3" playOrder="40">
+      <navLabel><text>1. Quando acontecer um desastre, pense bem antes de cada passo</text><audio src="0003.mp3" clipBegin="0:00:16.941" clipEnd="0:00:22.615"/></navLabel>
+      <content src="0003.smil#pr3.4"/>
+    </navPoint>
+    <navPoint id="s41" class="h3" playOrder="41">
+      <navLabel><text>2. Joias espirituais</text><audio src="0003.mp3" clipBegin="0:01:36.664" clipEnd="0:01:39.996"/></navLabel>
+      <content src="0003.smil#pr3.10"/>
+    </navPoint>
+    <navPoint id="s42" class="h3" playOrder="42">
+      <navLabel><text>3. Leitura da Bíblia</text><audio src="0003.mp3" clipBegin="0:02:03.634" clipEnd="0:02:06.290"/></navLabel>
+      <content src="0003.smil#pr3.14"/>
+    </navPoint></navPoint>
+    <navPoint id="s43" class="h2" playOrder="43">
+      <navLabel><text>FAÇA SEU MELHOR NO MINISTÉRIO</text><audio src="0003.mp3" clipBegin="0:02:15.214" clipEnd="0:02:17.722"/></navLabel>
+      <content src="0003.smil#pr3.16"/>
+    <navPoint id="s44" class="h3" playOrder="44">
+      <navLabel><text>4. Iniciando conversas</text><audio src="0003.mp3" clipBegin="0:02:17.722" clipEnd="0:02:20.971"/></navLabel>
+      <content src="0003.smil#pr3.17"/>
+    </navPoint>
+    <navPoint id="s45" class="h3" playOrder="45">
+      <navLabel><text>5. Cultivando o interesse</text><audio src="0003.mp3" clipBegin="0:02:35.702" clipEnd="0:02:38.968"/></navLabel>
+      <content src="0003.smil#pr3.19"/>
+    </navPoint>
+    <navPoint id="s46" class="h3" playOrder="46">
+      <navLabel><text>6. Fazendo discípulos</text><audio src="0003.mp3" clipBegin="0:02:54.326" clipEnd="0:02:57.427"/></navLabel>
+      <content src="0003.smil#pr3.21"/>
+    </navPoint></navPoint>
+    <navPoint id="s47" class="h2" playOrder="47">
+      <navLabel><text>NOSSA VIDA CRISTÃ</text><audio src="0003.mp3" clipBegin="0:03:09.700" clipEnd="0:03:11.547"/></navLabel>
+      <content src="0003.smil#pr3.23"/>
+    <navPoint id="s48" class="h3" playOrder="48">
+      <navLabel><text>Cântico 126</text><audio src="0003.mp3" clipBegin="0:03:11.547" clipEnd="0:03:13.922"/></navLabel>
+      <content src="0003.smil#pr3.24"/>
+    </navPoint>
+    <navPoint id="s49" class="h3" playOrder="49">
+      <navLabel><text>7. Esteja preparado para um desastre</text><audio src="0003.mp3" clipBegin="0:03:13.922" clipEnd="0:03:17.815"/></navLabel>
+      <content src="0003.smil#pr3.25"/>
+    </navPoint>
+    <navPoint id="s50" class="h3" playOrder="50">
+      <navLabel><text>PERGUNTE-SE:</text><audio src="0003.mp3" clipBegin="0:04:58.341" clipEnd="0:04:59.920"/></navLabel>
+      <content src="0003.smil#pr3.35"/>
+    </navPoint>
+    <navPoint id="s51" class="h3" playOrder="51">
+      <navLabel><text>8. Estudo bíblico de congregação</text><audio src="0003.mp3" clipBegin="0:05:07.600" clipEnd="0:05:11.043"/></navLabel>
+      <content src="0003.smil#pr3.37"/>
+    </navPoint>
+    <navPoint id="s52" class="h3" playOrder="52">
+      <navLabel><text>Comentários finais (3 min) | Cântico 116 e oração</text><audio src="0003.mp3" clipBegin="0:05:20.321" clipEnd="0:05:28.647"/></navLabel>
+      <content src="0003.smil#pr3.39"/>
+    </navPoint></navPoint></navPoint>
+    <navPoint id="s53" class="h1" playOrder="53">
+      <navLabel><text>26 de maio–1.º de junho</text><audio src="0004.mp3" clipBegin="0:00:00.000" clipEnd="0:00:03.920"/></navLabel>
+      <content src="0004.smil#pr4.0"/>
+    <navPoint id="s54" class="h2" playOrder="54">
+      <navLabel><text>PROVÉRBIOS 15</text><audio src="0004.mp3" clipBegin="0:00:03.920" clipEnd="0:00:08.147"/></navLabel>
+      <content src="0004.smil#pr4.1"/>
+    <navPoint id="s55" class="h3" playOrder="55">
+      <navLabel><text>Cântico 102 e oração | Comentários iniciais (1 min)</text><audio src="0004.mp3" clipBegin="0:00:08.147" clipEnd="0:00:14.089"/></navLabel>
+      <content src="0004.smil#pr4.2"/>
+    </navPoint></navPoint>
+    <navPoint id="s56" class="h2" playOrder="56">
+      <navLabel><text>TESOUROS DA PALAVRA DE DEUS</text><audio src="0004.mp3" clipBegin="0:00:14.089" clipEnd="0:00:17.048"/></navLabel>
+      <content src="0004.smil#pr4.3"/>
+    <navPoint id="s57" class="h3" playOrder="57">
+      <navLabel><text>1. Ajude outros a ter um coração alegre</text><audio src="0004.mp3" clipBegin="0:00:17.048" clipEnd="0:00:21.029"/></navLabel>
+      <content src="0004.smil#pr4.4"/>
+    </navPoint>
+    <navPoint id="s58" class="h3" playOrder="58">
+      <navLabel><text>2. Joias espirituais</text><audio src="0004.mp3" clipBegin="0:01:52.169" clipEnd="0:01:55.837"/></navLabel>
+      <content src="0004.smil#pr4.11"/>
+    </navPoint>
+    <navPoint id="s59" class="h3" playOrder="59">
+      <navLabel><text>3. Leitura da Bíblia</text><audio src="0004.mp3" clipBegin="0:02:24.317" clipEnd="0:02:27.056"/></navLabel>
+      <content src="0004.smil#pr4.15"/>
+    </navPoint></navPoint>
+    <navPoint id="s60" class="h2" playOrder="60">
+      <navLabel><text>FAÇA SEU MELHOR NO MINISTÉRIO</text><audio src="0004.mp3" clipBegin="0:02:35.598" clipEnd="0:02:38.650"/></navLabel>
+      <content src="0004.smil#pr4.17"/>
+    <navPoint id="s61" class="h3" playOrder="61">
+      <navLabel><text>4. Iniciando conversas</text><audio src="0004.mp3" clipBegin="0:02:38.650" clipEnd="0:02:41.749"/></navLabel>
+      <content src="0004.smil#pr4.18"/>
+    </navPoint>
+    <navPoint id="s62" class="h3" playOrder="62">
+      <navLabel><text>5. Iniciando conversas</text><audio src="0004.mp3" clipBegin="0:02:50.546" clipEnd="0:02:53.483"/></navLabel>
+      <content src="0004.smil#pr4.20"/>
+    </navPoint>
+    <navPoint id="s63" class="h3" playOrder="63">
+      <navLabel><text>6. Fazendo discípulos</text><audio src="0004.mp3" clipBegin="0:03:04.264" clipEnd="0:03:07.270"/></navLabel>
+      <content src="0004.smil#pr4.22"/>
+    </navPoint></navPoint>
+    <navPoint id="s64" class="h2" playOrder="64">
+      <navLabel><text>NOSSA VIDA CRISTÃ</text><audio src="0004.mp3" clipBegin="0:03:17.042" clipEnd="0:03:19.758"/></navLabel>
+      <content src="0004.smil#pr4.24"/>
+    <navPoint id="s65" class="h3" playOrder="65">
+      <navLabel><text>Cântico 155</text><audio src="0004.mp3" clipBegin="0:03:19.758" clipEnd="0:03:22.381"/></navLabel>
+      <content src="0004.smil#pr4.25"/>
+    </navPoint>
+    <navPoint id="s66" class="h3" playOrder="66">
+      <navLabel><text>7. Podemos ter um coração alegre apesar das dificuldades</text><audio src="0004.mp3" clipBegin="0:03:22.381" clipEnd="0:03:27.615"/></navLabel>
+      <content src="0004.smil#pr4.26"/>
+    </navPoint>
+    <navPoint id="s67" class="h3" playOrder="67">
+      <navLabel><text>8. Estudo bíblico de congregação</text><audio src="0004.mp3" clipBegin="0:03:41.101" clipEnd="0:03:44.780"/></navLabel>
+      <content src="0004.smil#pr4.30"/>
+    </navPoint>
+    <navPoint id="s68" class="h3" playOrder="68">
+      <navLabel><text>Comentários finais (3 min) | Cântico 100  e oração</text><audio src="0004.mp3" clipBegin="0:03:51.187" clipEnd="0:03:59.151"/></navLabel>
+      <content src="0004.smil#pr4.32"/>
+    </navPoint></navPoint></navPoint>
+    <navPoint id="s69" class="h1" playOrder="69">
+      <navLabel><text>2-8 de junho</text><audio src="0005.mp3" clipBegin="0:00:00.000" clipEnd="0:00:02.979"/></navLabel>
+      <content src="0005.smil#pr5.0"/>
+    <navPoint id="s70" class="h2" playOrder="70">
+      <navLabel><text>PROVÉRBIOS 16</text><audio src="0005.mp3" clipBegin="0:00:02.979" clipEnd="0:00:07.289"/></navLabel>
+      <content src="0005.smil#pr5.1"/>
+    <navPoint id="s71" class="h3" playOrder="71">
+      <navLabel><text>Cântico 36 e oração | Comentários iniciais (1 min)</text><audio src="0005.mp3" clipBegin="0:00:07.289" clipEnd="0:00:13.058"/></navLabel>
+      <content src="0005.smil#pr5.2"/>
+    </navPoint></navPoint>
+    <navPoint id="s72" class="h2" playOrder="72">
+      <navLabel><text>TESOUROS DA PALAVRA DE DEUS</text><audio src="0005.mp3" clipBegin="0:00:13.058" clipEnd="0:00:15.615"/></navLabel>
+      <content src="0005.smil#pr5.3"/>
+    <navPoint id="s73" class="h3" playOrder="73">
+      <navLabel><text>1. Três perguntas que nos ajudam a tomar boas decisões</text><audio src="0005.mp3" clipBegin="0:00:15.615" clipEnd="0:00:20.507"/></navLabel>
+      <content src="0005.smil#pr5.4"/>
+    </navPoint>
+    <navPoint id="s74" class="h3" playOrder="74">
+      <navLabel><text>2. Joias espirituais</text><audio src="0005.mp3" clipBegin="0:01:43.929" clipEnd="0:01:47.129"/></navLabel>
+      <content src="0005.smil#pr5.10"/>
+    </navPoint>
+    <navPoint id="s75" class="h3" playOrder="75">
+      <navLabel><text>3. Leitura da Bíblia</text><audio src="0005.mp3" clipBegin="0:02:14.587" clipEnd="0:02:17.032"/></navLabel>
+      <content src="0005.smil#pr5.14"/>
+    </navPoint></navPoint>
+    <navPoint id="s76" class="h2" playOrder="76">
+      <navLabel><text>FAÇA SEU MELHOR NO MINISTÉRIO</text><audio src="0005.mp3" clipBegin="0:02:26.283" clipEnd="0:02:28.581"/></navLabel>
+      <content src="0005.smil#pr5.16"/>
+    <navPoint id="s77" class="h3" playOrder="77">
+      <navLabel><text>4. Iniciando conversas</text><audio src="0005.mp3" clipBegin="0:02:28.581" clipEnd="0:02:31.455"/></navLabel>
+      <content src="0005.smil#pr5.17"/>
+    </navPoint>
+    <navPoint id="s78" class="h3" playOrder="78">
+      <navLabel><text>5. Cultivando o interesse</text><audio src="0005.mp3" clipBegin="0:02:45.843" clipEnd="0:02:48.513"/></navLabel>
+      <content src="0005.smil#pr5.19"/>
+    </navPoint>
+    <navPoint id="s79" class="h3" playOrder="79">
+      <navLabel><text>6. Discurso</text><audio src="0005.mp3" clipBegin="0:03:01.797" clipEnd="0:03:04.051"/></navLabel>
+      <content src="0005.smil#pr5.21"/>
+    </navPoint></navPoint>
+    <navPoint id="s80" class="h2" playOrder="80">
+      <navLabel><text>NOSSA VIDA CRISTÃ</text><audio src="0005.mp3" clipBegin="0:03:19.735" clipEnd="0:03:21.583"/></navLabel>
+      <content src="0005.smil#pr5.23"/>
+    <navPoint id="s81" class="h3" playOrder="81">
+      <navLabel><text>Cântico 32</text><audio src="0005.mp3" clipBegin="0:03:21.583" clipEnd="0:03:23.239"/></navLabel>
+      <content src="0005.smil#pr5.24"/>
+    </navPoint>
+    <navPoint id="s82" class="h3" playOrder="82">
+      <navLabel><text>7. Necessidades locais</text><audio src="0005.mp3" clipBegin="0:03:23.239" clipEnd="0:03:25.864"/></navLabel>
+      <content src="0005.smil#pr5.25"/>
+    </navPoint>
+    <navPoint id="s83" class="h3" playOrder="83">
+      <navLabel><text>8. Estudo bíblico de congregação</text><audio src="0005.mp3" clipBegin="0:03:27.757" clipEnd="0:03:30.709"/></navLabel>
+      <content src="0005.smil#pr5.27"/>
+    </navPoint>
+    <navPoint id="s84" class="h3" playOrder="84">
+      <navLabel><text>Comentários finais (3 min) | Cântico 68 e oração</text><audio src="0005.mp3" clipBegin="0:03:37.402" clipEnd="0:03:45.776"/></navLabel>
+      <content src="0005.smil#pr5.29"/>
+    </navPoint></navPoint></navPoint>
+    <navPoint id="s85" class="h1" playOrder="85">
+      <navLabel><text>9-15 de junho</text><audio src="0006.mp3" clipBegin="0:00:00.000" clipEnd="0:00:03.669"/></navLabel>
+      <content src="0006.smil#pr6.0"/>
+    <navPoint id="s86" class="h2" playOrder="86">
+      <navLabel><text>PROVÉRBIOS 17</text><audio src="0006.mp3" clipBegin="0:00:03.669" clipEnd="0:00:08.353"/></navLabel>
+      <content src="0006.smil#pr6.1"/>
+    <navPoint id="s87" class="h3" playOrder="87">
+      <navLabel><text>Cântico 157 e oração | Comentários iniciais (1 min)</text><audio src="0006.mp3" clipBegin="0:00:08.353" clipEnd="0:00:14.970"/></navLabel>
+      <content src="0006.smil#pr6.2"/>
+    </navPoint></navPoint>
+    <navPoint id="s88" class="h2" playOrder="88">
+      <navLabel><text>TESOUROS DA PALAVRA DE DEUS</text><audio src="0006.mp3" clipBegin="0:00:14.970" clipEnd="0:00:17.800"/></navLabel>
+      <content src="0006.smil#pr6.3"/>
+    <navPoint id="s89" class="h3" playOrder="89">
+      <navLabel><text>1. Tenha paz no seu casamento</text><audio src="0006.mp3" clipBegin="0:00:17.800" clipEnd="0:00:21.197"/></navLabel>
+      <content src="0006.smil#pr6.4"/>
+    </navPoint>
+    <navPoint id="s90" class="h3" playOrder="90">
+      <navLabel><text>2. Joias espirituais</text><audio src="0006.mp3" clipBegin="0:01:55.569" clipEnd="0:01:58.234"/></navLabel>
+      <content src="0006.smil#pr6.11"/>
+    </navPoint>
+    <navPoint id="s91" class="h3" playOrder="91">
+      <navLabel><text>3. Leitura da Bíblia</text><audio src="0006.mp3" clipBegin="0:02:27.028" clipEnd="0:02:29.457"/></navLabel>
+      <content src="0006.smil#pr6.15"/>
+    </navPoint></navPoint>
+    <navPoint id="s92" class="h2" playOrder="92">
+      <navLabel><text>FAÇA SEU MELHOR NO MINISTÉRIO</text><audio src="0006.mp3" clipBegin="0:02:38.074" clipEnd="0:02:40.913"/></navLabel>
+      <content src="0006.smil#pr6.17"/>
+    <navPoint id="s93" class="h3" playOrder="93">
+      <navLabel><text>4. Iniciando conversas</text><audio src="0006.mp3" clipBegin="0:02:40.913" clipEnd="0:02:43.752"/></navLabel>
+      <content src="0006.smil#pr6.18"/>
+    </navPoint>
+    <navPoint id="s94" class="h3" playOrder="94">
+      <navLabel><text>5. Iniciando conversas</text><audio src="0006.mp3" clipBegin="0:02:52.583" clipEnd="0:02:55.455"/></navLabel>
+      <content src="0006.smil#pr6.20"/>
+    </navPoint>
+    <navPoint id="s95" class="h3" playOrder="95">
+      <navLabel><text>6. Discurso</text><audio src="0006.mp3" clipBegin="0:03:06.780" clipEnd="0:03:09.406"/></navLabel>
+      <content src="0006.smil#pr6.22"/>
+    </navPoint></navPoint>
+    <navPoint id="s96" class="h2" playOrder="96">
+      <navLabel><text>NOSSA VIDA CRISTÃ</text><audio src="0006.mp3" clipBegin="0:03:24.818" clipEnd="0:03:27.280"/></navLabel>
+      <content src="0006.smil#pr6.24"/>
+    <navPoint id="s97" class="h3" playOrder="97">
+      <navLabel><text>Cântico 113</text><audio src="0006.mp3" clipBegin="0:03:27.280" clipEnd="0:03:29.561"/></navLabel>
+      <content src="0006.smil#pr6.25"/>
+    </navPoint>
+    <navPoint id="s98" class="h3" playOrder="98">
+      <navLabel><text>7. Crie hábitos que facilitem a comunicação</text><audio src="0006.mp3" clipBegin="0:03:29.561" clipEnd="0:03:34.321"/></navLabel>
+      <content src="0006.smil#pr6.26"/>
+    </navPoint>
+    <navPoint id="s99" class="h3" playOrder="99">
+      <navLabel><text>8. Estudo bíblico de congregação</text><audio src="0006.mp3" clipBegin="0:05:21.318" clipEnd="0:05:24.797"/></navLabel>
+      <content src="0006.smil#pr6.35"/>
+    </navPoint>
+    <navPoint id="s100" class="h3" playOrder="100">
+      <navLabel><text>Comentários finais (3 min) | Cântico 35  e oração</text><audio src="0006.mp3" clipBegin="0:05:34.169" clipEnd="0:05:42.387"/></navLabel>
+      <content src="0006.smil#pr6.37"/>
+    </navPoint></navPoint></navPoint>
+    <navPoint id="s101" class="h1" playOrder="101">
+      <navLabel><text>16-22 de junho</text><audio src="0007.mp3" clipBegin="0:00:00.000" clipEnd="0:00:04.551"/></navLabel>
+      <content src="0007.smil#pr7.0"/>
+    <navPoint id="s102" class="h2" playOrder="102">
+      <navLabel><text>PROVÉRBIOS 18</text><audio src="0007.mp3" clipBegin="0:00:04.551" clipEnd="0:00:08.953"/></navLabel>
+      <content src="0007.smil#pr7.1"/>
+    <navPoint id="s103" class="h3" playOrder="103">
+      <navLabel><text>Cântico 90 e oração | Comentários iniciais (1 min)</text><audio src="0007.mp3" clipBegin="0:00:08.953" clipEnd="0:00:15.198"/></navLabel>
+      <content src="0007.smil#pr7.2"/>
+    </navPoint></navPoint>
+    <navPoint id="s104" class="h2" playOrder="104">
+      <navLabel><text>TESOUROS DA PALAVRA DE DEUS</text><audio src="0007.mp3" clipBegin="0:00:15.198" clipEnd="0:00:18.170"/></navLabel>
+      <content src="0007.smil#pr7.3"/>
+    <navPoint id="s105" class="h3" playOrder="105">
+      <navLabel><text>1. Fale de um modo que encoraje quem está enfrentando problemas de saúde</text><audio src="0007.mp3" clipBegin="0:00:18.170" clipEnd="0:00:23.624"/></navLabel>
+      <content src="0007.smil#pr7.4"/>
+    </navPoint>
+    <navPoint id="s106" class="h3" playOrder="106">
+      <navLabel><text>2. Joias espirituais</text><audio src="0007.mp3" clipBegin="0:01:51.992" clipEnd="0:01:55.209"/></navLabel>
+      <content src="0007.smil#pr7.10"/>
+    </navPoint>
+    <navPoint id="s107" class="h3" playOrder="107">
+      <navLabel><text>3. Leitura da Bíblia</text><audio src="0007.mp3" clipBegin="0:02:21.835" clipEnd="0:02:24.522"/></navLabel>
+      <content src="0007.smil#pr7.14"/>
+    </navPoint></navPoint>
+    <navPoint id="s108" class="h2" playOrder="108">
+      <navLabel><text>FAÇA SEU MELHOR NO MINISTÉRIO</text><audio src="0007.mp3" clipBegin="0:02:34.843" clipEnd="0:02:37.610"/></navLabel>
+      <content src="0007.smil#pr7.16"/>
+    <navPoint id="s109" class="h3" playOrder="109">
+      <navLabel><text>4. Iniciando conversas</text><audio src="0007.mp3" clipBegin="0:02:37.610" clipEnd="0:02:40.669"/></navLabel>
+      <content src="0007.smil#pr7.17"/>
+    </navPoint>
+    <navPoint id="s110" class="h3" playOrder="110">
+      <navLabel><text>5. Cultivando o interesse</text><audio src="0007.mp3" clipBegin="0:02:52.719" clipEnd="0:02:56.044"/></navLabel>
+      <content src="0007.smil#pr7.19"/>
+    </navPoint>
+    <navPoint id="s111" class="h3" playOrder="111">
+      <navLabel><text>6. Cultivando o interesse</text><audio src="0007.mp3" clipBegin="0:03:09.132" clipEnd="0:03:12.297"/></navLabel>
+      <content src="0007.smil#pr7.21"/>
+    </navPoint>
+    <navPoint id="s112" class="h3" playOrder="112">
+      <navLabel><text>7. Explicando suas crenças</text><audio src="0007.mp3" clipBegin="0:03:25.677" clipEnd="0:03:29.348"/></navLabel>
+      <content src="0007.smil#pr7.23"/>
+    </navPoint></navPoint>
+    <navPoint id="s113" class="h2" playOrder="113">
+      <navLabel><text>NOSSA VIDA CRISTÃ</text><audio src="0007.mp3" clipBegin="0:03:49.751" clipEnd="0:03:51.640"/></navLabel>
+      <content src="0007.smil#pr7.25"/>
+    <navPoint id="s114" class="h3" playOrder="114">
+      <navLabel><text>Cântico 144</text><audio src="0007.mp3" clipBegin="0:03:51.640" clipEnd="0:03:54.326"/></navLabel>
+      <content src="0007.smil#pr7.26"/>
+    </navPoint>
+    <navPoint id="s115" class="h3" playOrder="115">
+      <navLabel><text>8. Mesmo “sem palavras”, ajude alguém que você ama a conhecer a Jeová</text><audio src="0007.mp3" clipBegin="0:03:54.326" clipEnd="0:04:00.737"/></navLabel>
+      <content src="0007.smil#pr7.27"/>
+    </navPoint>
+    <navPoint id="s116" class="h3" playOrder="116">
+      <navLabel><text>9. Estudo bíblico de congregação</text><audio src="0007.mp3" clipBegin="0:05:38.283" clipEnd="0:05:41.874"/></navLabel>
+      <content src="0007.smil#pr7.35"/>
+    </navPoint>
+    <navPoint id="s117" class="h3" playOrder="117">
+      <navLabel><text>Comentários finais (3 min) | Cântico 60 e oração</text><audio src="0007.mp3" clipBegin="0:05:53.551" clipEnd="0:06:00.908"/></navLabel>
+      <content src="0007.smil#pr7.37"/>
+    </navPoint></navPoint></navPoint>
+    <navPoint id="s118" class="h1" playOrder="118">
+      <navLabel><text>23-29 de junho</text><audio src="0008.mp3" clipBegin="0:00:00.000" clipEnd="0:00:03.781"/></navLabel>
+      <content src="0008.smil#pr8.0"/>
+    <navPoint id="s119" class="h2" playOrder="119">
+      <navLabel><text>PROVÉRBIOS 19</text><audio src="0008.mp3" clipBegin="0:00:03.781" clipEnd="0:00:08.409"/></navLabel>
+      <content src="0008.smil#pr8.1"/>
+    <navPoint id="s120" class="h3" playOrder="120">
+      <navLabel><text>Cântico 154 e oração | Comentários iniciais (1 min)</text><audio src="0008.mp3" clipBegin="0:00:08.409" clipEnd="0:00:15.079"/></navLabel>
+      <content src="0008.smil#pr8.2"/>
+    </navPoint></navPoint>
+    <navPoint id="s121" class="h2" playOrder="121">
+      <navLabel><text>TESOUROS DA PALAVRA DE DEUS</text><audio src="0008.mp3" clipBegin="0:00:15.079" clipEnd="0:00:17.846"/></navLabel>
+      <content src="0008.smil#pr8.3"/>
+    <navPoint id="s122" class="h3" playOrder="122">
+      <navLabel><text>1. Seja um verdadeiro amigo para os irmãos</text><audio src="0008.mp3" clipBegin="0:00:17.846" clipEnd="0:00:22.136"/></navLabel>
+      <content src="0008.smil#pr8.4"/>
+    </navPoint>
+    <navPoint id="s123" class="h3" playOrder="123">
+      <navLabel><text>2. Joias espirituais</text><audio src="0008.mp3" clipBegin="0:01:41.785" clipEnd="0:01:45.239"/></navLabel>
+      <content src="0008.smil#pr8.11"/>
+    </navPoint>
+    <navPoint id="s124" class="h3" playOrder="124">
+      <navLabel><text>3. Leitura da Bíblia</text><audio src="0008.mp3" clipBegin="0:02:11.665" clipEnd="0:02:14.673"/></navLabel>
+      <content src="0008.smil#pr8.15"/>
+    </navPoint></navPoint>
+    <navPoint id="s125" class="h2" playOrder="125">
+      <navLabel><text>FAÇA SEU MELHOR NO MINISTÉRIO</text><audio src="0008.mp3" clipBegin="0:02:23.717" clipEnd="0:02:26.558"/></navLabel>
+      <content src="0008.smil#pr8.17"/>
+    <navPoint id="s126" class="h3" playOrder="126">
+      <navLabel><text>4. Iniciando conversas</text><audio src="0008.mp3" clipBegin="0:02:26.558" clipEnd="0:02:29.938"/></navLabel>
+      <content src="0008.smil#pr8.18"/>
+    </navPoint>
+    <navPoint id="s127" class="h3" playOrder="127">
+      <navLabel><text>5. Cultivando o interesse</text><audio src="0008.mp3" clipBegin="0:02:46.113" clipEnd="0:02:49.808"/></navLabel>
+      <content src="0008.smil#pr8.20"/>
+    </navPoint>
+    <navPoint id="s128" class="h3" playOrder="128">
+      <navLabel><text>6. Discurso</text><audio src="0008.mp3" clipBegin="0:03:04.386" clipEnd="0:03:07.283"/></navLabel>
+      <content src="0008.smil#pr8.22"/>
+    </navPoint></navPoint>
+    <navPoint id="s129" class="h2" playOrder="129">
+      <navLabel><text>NOSSA VIDA CRISTÃ</text><audio src="0008.mp3" clipBegin="0:03:20.765" clipEnd="0:03:23.384"/></navLabel>
+      <content src="0008.smil#pr8.24"/>
+    <navPoint id="s130" class="h3" playOrder="130">
+      <navLabel><text>Cântico 40</text><audio src="0008.mp3" clipBegin="0:03:23.384" clipEnd="0:03:25.594"/></navLabel>
+      <content src="0008.smil#pr8.25"/>
+    </navPoint>
+    <navPoint id="s131" class="h3" playOrder="131">
+      <navLabel><text>7. Necessidades locais</text><audio src="0008.mp3" clipBegin="0:03:25.594" clipEnd="0:03:28.676"/></navLabel>
+      <content src="0008.smil#pr8.26"/>
+    </navPoint>
+    <navPoint id="s132" class="h3" playOrder="132">
+      <navLabel><text>8. Estudo bíblico de congregação</text><audio src="0008.mp3" clipBegin="0:03:30.441" clipEnd="0:03:34.266"/></navLabel>
+      <content src="0008.smil#pr8.28"/>
+    </navPoint>
+    <navPoint id="s133" class="h3" playOrder="133">
+      <navLabel><text>Comentários finais (3 min) | Cântico 61 e oração</text><audio src="0008.mp3" clipBegin="0:03:40.989" clipEnd="0:03:49.486"/></navLabel>
+      <content src="0008.smil#pr8.30"/>
+    </navPoint></navPoint></navPoint>
+    <navPoint id="s134" class="h1" playOrder="134">
+      <navLabel><text>30 de junho–6 de julho</text><audio src="0009.mp3" clipBegin="0:00:00.000" clipEnd="0:00:03.838"/></navLabel>
+      <content src="0009.smil#pr9.0"/>
+    <navPoint id="s135" class="h2" playOrder="135">
+      <navLabel><text>PROVÉRBIOS 20</text><audio src="0009.mp3" clipBegin="0:00:03.838" clipEnd="0:00:07.820"/></navLabel>
+      <content src="0009.smil#pr9.1"/>
+    <navPoint id="s136" class="h3" playOrder="136">
+      <navLabel><text>Cântico 131 e oração | Comentários iniciais (1 min)</text><audio src="0009.mp3" clipBegin="0:00:07.820" clipEnd="0:00:14.385"/></navLabel>
+      <content src="0009.smil#pr9.2"/>
+    </navPoint></navPoint>
+    <navPoint id="s137" class="h2" playOrder="137">
+      <navLabel><text>TESOUROS DA PALAVRA DE DEUS</text><audio src="0009.mp3" clipBegin="0:00:14.385" clipEnd="0:00:17.614"/></navLabel>
+      <content src="0009.smil#pr9.3"/>
+    <navPoint id="s138" class="h3" playOrder="138">
+      <navLabel><text>1. Como ter um namoro que resulte em uma boa decisão</text><audio src="0009.mp3" clipBegin="0:00:17.614" clipEnd="0:00:23.102"/></navLabel>
+      <content src="0009.smil#pr9.4"/>
+    </navPoint>
+    <navPoint id="s139" class="h3" playOrder="139">
+      <navLabel><text>2. Joias espirituais</text><audio src="0009.mp3" clipBegin="0:02:04.590" clipEnd="0:02:07.958"/></navLabel>
+      <content src="0009.smil#pr9.10"/>
+    </navPoint>
+    <navPoint id="s140" class="h3" playOrder="140">
+      <navLabel><text>3. Leitura da Bíblia</text><audio src="0009.mp3" clipBegin="0:02:35.168" clipEnd="0:02:37.984"/></navLabel>
+      <content src="0009.smil#pr9.14"/>
+    </navPoint></navPoint>
+    <navPoint id="s141" class="h2" playOrder="141">
+      <navLabel><text>FAÇA SEU MELHOR NO MINISTÉRIO</text><audio src="0009.mp3" clipBegin="0:02:46.203" clipEnd="0:02:48.308"/></navLabel>
+      <content src="0009.smil#pr9.16"/>
+    <navPoint id="s142" class="h3" playOrder="142">
+      <navLabel><text>4. Iniciando conversas</text><audio src="0009.mp3" clipBegin="0:02:48.308" clipEnd="0:02:51.555"/></navLabel>
+      <content src="0009.smil#pr9.17"/>
+    </navPoint>
+    <navPoint id="s143" class="h3" playOrder="143">
+      <navLabel><text>5. Cultivando o interesse</text><audio src="0009.mp3" clipBegin="0:03:04.949" clipEnd="0:03:07.917"/></navLabel>
+      <content src="0009.smil#pr9.19"/>
+    </navPoint>
+    <navPoint id="s144" class="h3" playOrder="144">
+      <navLabel><text>6. Explicando suas crenças</text><audio src="0009.mp3" clipBegin="0:03:24.430" clipEnd="0:03:27.601"/></navLabel>
+      <content src="0009.smil#pr9.21"/>
+    </navPoint></navPoint>
+    <navPoint id="s145" class="h2" playOrder="145">
+      <navLabel><text>NOSSA VIDA CRISTÃ</text><audio src="0009.mp3" clipBegin="0:03:45.003" clipEnd="0:03:46.855"/></navLabel>
+      <content src="0009.smil#pr9.23"/>
+    <navPoint id="s146" class="h3" playOrder="146">
+      <navLabel><text>Cântico 78</text><audio src="0009.mp3" clipBegin="0:03:46.855" clipEnd="0:03:48.833"/></navLabel>
+      <content src="0009.smil#pr9.24"/>
+    </navPoint>
+    <navPoint id="s147" class="h3" playOrder="147">
+      <navLabel><text>7. Incentive outros a experimentar nosso curso bíblico</text><audio src="0009.mp3" clipBegin="0:03:48.833" clipEnd="0:03:53.805"/></navLabel>
+      <content src="0009.smil#pr9.25"/>
+    </navPoint>
+    <navPoint id="s148" class="h3" playOrder="148">
+      <navLabel><text>8. Realizações da Organização, junho</text><audio src="0009.mp3" clipBegin="0:04:55.396" clipEnd="0:04:59.886"/></navLabel>
+      <content src="0009.smil#pr9.31"/>
+    </navPoint>
+    <navPoint id="s149" class="h3" playOrder="149">
+      <navLabel><text>9. Estudo bíblico de congregação</text><audio src="0009.mp3" clipBegin="0:05:02.828" clipEnd="0:05:05.974"/></navLabel>
+      <content src="0009.smil#pr9.33"/>
+    </navPoint>
+    <navPoint id="s150" class="h3" playOrder="150">
+      <navLabel><text>Comentários finais (3 min) | Cântico 150  e oração</text><audio src="0009.mp3" clipBegin="0:05:12.138" clipEnd="0:05:20.548"/></navLabel>
+      <content src="0009.smil#pr9.35"/>
+    </navPoint></navPoint></navPoint></navMap><pageList id="page">
+    <pageTarget class="pagenum" type="normal" value="3" id="page3" playOrder="151">
+      <navLabel><text>3</text></navLabel>
+      <content src="0001.smil#pr1.25"/>
+    </pageTarget>
+    <pageTarget class="pagenum" type="normal" value="5" id="page5" playOrder="152">
+      <navLabel><text>5</text></navLabel>
+      <content src="0002.smil#pr2.24"/>
+    </pageTarget>
+    <pageTarget class="pagenum" type="normal" value="7" id="page7" playOrder="153">
+      <navLabel><text>7</text></navLabel>
+      <content src="0003.smil#pr3.23"/>
+    </pageTarget>
+    <pageTarget class="pagenum" type="normal" value="11" id="page11" playOrder="154">
+      <navLabel><text>11</text></navLabel>
+      <content src="0006.smil#pr6.24"/>
+    </pageTarget>
+    <pageTarget class="pagenum" type="normal" value="13" id="page13" playOrder="155">
+      <navLabel><text>13</text></navLabel>
+      <content src="0007.smil#pr7.25"/>
+    </pageTarget>
+    <pageTarget class="pagenum" type="normal" value="16" id="page16" playOrder="156">
+      <navLabel><text>16</text></navLabel>
+      <content src="0009.smil#pr9.25"/>
+    </pageTarget>
+  </pageList>
+</ncx>

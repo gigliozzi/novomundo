@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "Admin Principal",
+    "email": "admin@designacoes.com",
+    "senha": "$2b$10$3LIIBT4lG.imGhHGGQ6wHe8WHi/2N1kpDHtpz7UpundYGrPDccS9u",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "nome": "Usuário Padrão",
+    "email": "usuario@designacoes.com",
+    "senha": "$2a$10$V8Cv0mXYByO3cU7nsbAiPuhZH9mGLQYZu6CrZwMzhAaN2UJ5jVnWa",
+    "role": "user"
+  }
+]

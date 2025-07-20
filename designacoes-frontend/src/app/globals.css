@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Variáveis personalizadas */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+/* Modo escuro */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* Estilos globais */
+body {
+  background: var(--background);
+  color: var(--foreground);
+  @apply font-sans; /* Usa a fonte padrão do Tailwind (ou do Noto Sans se layout aplicar) */
+}

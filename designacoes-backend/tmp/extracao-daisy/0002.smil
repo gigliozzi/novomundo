@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+  <head>
+    <meta name="dtb:uid" content=""/>
+    <meta name="dtb:generator" content="Anemone 1.81 (http://ssb22.user.srcf.net/anemone)" />
+    <meta name="dtb:totalElapsedTime" content="0:06:45.055" />
+  </head>
+  <body>
+    <seq id="sq2" dur="0:05:26.661" fill="remove">
+      <par id="pr2.0">
+        <text id="t2.0" src="0002.xml#p44" />
+          <audio src="0002.mp3" clipBegin="0:00:00.000" clipEnd="0:00:03.396" id="aud2.0" />
+      </par>
+      <par id="pr2.1">
+        <text id="t2.1" src="0002.xml#p45" />
+          <audio src="0002.mp3" clipBegin="0:00:03.396" clipEnd="0:00:07.409" id="aud2.1" />
+      </par>
+      <par id="pr2.2">
+        <text id="t2.2" src="0002.xml#p46" />
+          <audio src="0002.mp3" clipBegin="0:00:07.409" clipEnd="0:00:13.804" id="aud2.2" />
+      </par>
+      <par id="pr2.3">
+        <text id="t2.3" src="0002.xml#p47" />
+          <audio src="0002.mp3" clipBegin="0:00:13.804" clipEnd="0:00:16.472" id="aud2.3" />
+      </par>
+      <par id="pr2.4">
+        <text id="t2.4" src="0002.xml#p48" />
+          <audio src="0002.mp3" clipBegin="0:00:16.472" clipEnd="0:00:21.105" id="aud2.4" />
+      </par>
+      <par id="pr2.5">
+        <text id="t2.5" src="0002.xml#p49" />
+          <audio src="0002.mp3" clipBegin="0:00:21.105" clipEnd="0:00:22.652" id="aud2.5" />
+      </par>
+      <par id="pr2.6">
+        <text id="t2.6" src="0002.xml#p50" />
+          <audio src="0002.mp3" clipBegin="0:00:22.652" clipEnd="0:00:40.626" id="aud2.6" />
+      </par>
+      <par id="pr2.7">
+        <text id="t2.7" src="0002.xml#p51" />
+          <audio src="0002.mp3" clipBegin="0:00:40.626" clipEnd="0:01:02.367" id="aud2.7" />
+      </par>
+      <par id="pr2.8">
+        <text id="t2.8" src="0002.xml#p52" />
+          <audio src="0002.mp3" clipBegin="0:01:02.367" clipEnd="0:01:21.759" id="aud2.8" />
+      </par><par><text id="t2.8.0" src="0002.xml#i2"/></par>
+      <par id="pr2.9">
+        <text id="t2.9" src="0002.xml#p53" />
+          <audio src="0002.mp3" clipBegin="0:01:21.759" clipEnd="0:01:49.955" id="aud2.9" />
+      </par>
+      <par id="pr2.10">
+        <text id="t2.10" src="0002.xml#p54" />
+          <audio src="0002.mp3" clipBegin="0:01:49.955" clipEnd="0:02:03.644" id="aud2.10" />
+      </par>
+      <par id="pr2.11">
+        <text id="t2.11" src="0002.xml#p55" />
+          <audio src="0002.mp3" clipBegin="0:02:03.644" clipEnd="0:02:06.997" id="aud2.11" />
+      </par>
+      <par id="pr2.12">
+        <text id="t2.12" src="0002.xml#p56" />
+          <audio src="0002.mp3" clipBegin="0:02:06.997" clipEnd="0:02:08.461" id="aud2.12" />
+      </par>
+      <par id="pr2.13">
+        <text id="t2.13" src="0002.xml#p57" />
+          <audio src="0002.mp3" clipBegin="0:02:08.461" clipEnd="0:02:29.071" id="aud2.13" />
+      </par>
+      <par id="pr2.14">
+        <text id="t2.14" src="0002.xml#p58" />
+          <audio src="0002.mp3" clipBegin="0:02:29.071" clipEnd="0:02:33.907" id="aud2.14" />
+      </par>
+      <par id="pr2.15">
+        <text id="t2.15" src="0002.xml#p59" />
+          <audio src="0002.mp3" clipBegin="0:02:33.907" clipEnd="0:02:36.650" id="aud2.15" />
+      </par>
+      <par id="pr2.16">
+        <text id="t2.16" src="0002.xml#p60" />
+          <audio src="0002.mp3" clipBegin="0:02:36.650" clipEnd="0:02:44.896" id="aud2.16" />
+      </par>
+      <par id="pr2.17">
+        <text id="t2.17" src="0002.xml#p61" />
+          <audio src="0002.mp3" clipBegin="0:02:44.896" clipEnd="0:02:47.897" id="aud2.17" />
+      </par>
+      <par id="pr2.18">
+        <text id="t2.18" src="0002.xml#p62" />
+          <audio src="0002.mp3" clipBegin="0:02:47.897" clipEnd="0:02:50.844" id="aud2.18" />
+      </par>
+      <par id="pr2.19">
+        <text id="t2.19" src="0002.xml#p63" />
+          <audio src="0002.mp3" clipBegin="0:02:50.844" clipEnd="0:03:07.279" id="aud2.19" />
+      </par>
+      <par id="pr2.20">
+        <text id="t2.20" src="0002.xml#p64" />
+          <audio src="0002.mp3" clipBegin="0:03:07.279" clipEnd="0:03:10.392" id="aud2.20" />
+      </par>
+      <par id="pr2.21">
+        <text id="t2.21" src="0002.xml#p65" />
+          <audio src="0002.mp3" clipBegin="0:03:10.392" clipEnd="0:03:21.584" id="aud2.21" />
+      </par>
+      <par id="pr2.22">
+        <text id="t2.22" src="0002.xml#p66" />
+          <audio src="0002.mp3" clipBegin="0:03:21.584" clipEnd="0:03:23.956" id="aud2.22" />
+      </par>
+      <par id="pr2.23">
+        <text id="t2.23" src="0002.xml#p67" />
+          <audio src="0002.mp3" clipBegin="0:03:23.956" clipEnd="0:03:39.484" id="aud2.23" />
+      </par>
+      <par id="pr2.24">
+        <text id="t2.24" src="0002.xml#p68" />
+          <audio src="0002.mp3" clipBegin="0:03:39.484" clipEnd="0:03:41.763" id="aud2.24" />
+      </par>
+      <par id="pr2.25">
+        <text id="t2.25" src="0002.xml#p69" />
+          <audio src="0002.mp3" clipBegin="0:03:41.763" clipEnd="0:03:44.154" id="aud2.25" />
+      </par>
+      <par id="pr2.26">
+        <text id="t2.26" src="0002.xml#p70" />
+          <audio src="0002.mp3" clipBegin="0:03:44.154" clipEnd="0:03:48.471" id="aud2.26" />
+      </par>
+      <par id="pr2.27">
+        <text id="t2.27" src="0002.xml#p71" />
+          <audio src="0002.mp3" clipBegin="0:03:48.471" clipEnd="0:03:52.029" id="aud2.27" />
+      </par>
+      <par id="pr2.28">
+        <text id="t2.28" src="0002.xml#p72" />
+          <audio src="0002.mp3" clipBegin="0:03:52.029" clipEnd="0:04:06.667" id="aud2.28" />
+      </par><par><text id="t2.28.0" src="0002.xml#i3"/></par>
+      <par id="pr2.29">
+        <text id="t2.29" src="0002.xml#p73" />
+          <audio src="0002.mp3" clipBegin="0:04:06.667" clipEnd="0:04:12.819" id="aud2.29" />
+      </par>
+      <par id="pr2.30">
+        <text id="t2.30" src="0002.xml#p74" />
+          <audio src="0002.mp3" clipBegin="0:04:12.819" clipEnd="0:04:22.603" id="aud2.30" />
+      </par>
+      <par id="pr2.31">
+        <text id="t2.31" src="0002.xml#p75" />
+          <audio src="0002.mp3" clipBegin="0:04:22.603" clipEnd="0:04:32.257" id="aud2.31" />
+      </par>
+      <par id="pr2.32">
+        <text id="t2.32" src="0002.xml#p76" />
+          <audio src="0002.mp3" clipBegin="0:04:32.257" clipEnd="0:04:47.748" id="aud2.32" />
+      </par>
+      <par id="pr2.33">
+        <text id="t2.33" src="0002.xml#p77" />
+          <audio src="0002.mp3" clipBegin="0:04:47.748" clipEnd="0:04:50.712" id="aud2.33" />
+      </par>
+      <par id="pr2.34">
+        <text id="t2.34" src="0002.xml#p78" />
+          <audio src="0002.mp3" clipBegin="0:04:50.712" clipEnd="0:05:02.238" id="aud2.34" />
+      </par>
+      <par id="pr2.35">
+        <text id="t2.35" src="0002.xml#p79" />
+          <audio src="0002.mp3" clipBegin="0:05:02.238" clipEnd="0:05:05.444" id="aud2.35" />
+      </par>
+      <par id="pr2.36">
+        <text id="t2.36" src="0002.xml#p80" />
+          <audio src="0002.mp3" clipBegin="0:05:05.444" clipEnd="0:05:07.056" id="aud2.36" />
+      </par>
+      <par id="pr2.37">
+        <text id="t2.37" src="0002.xml#p81" />
+          <audio src="0002.mp3" clipBegin="0:05:07.056" clipEnd="0:05:10.965" id="aud2.37" />
+      </par>
+      <par id="pr2.38">
+        <text id="t2.38" src="0002.xml#p82" />
+          <audio src="0002.mp3" clipBegin="0:05:10.965" clipEnd="0:05:17.859" id="aud2.38" />
+      </par>
+      <par id="pr2.39">
+        <text id="t2.39" src="0002.xml#p83" />
+          <audio src="0002.mp3" clipBegin="0:05:17.859" clipEnd="0:05:26.661" id="aud2.39" />
+      </par>
+    </seq>
+  </body>
+</smil>
